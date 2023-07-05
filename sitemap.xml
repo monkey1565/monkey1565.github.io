@@ -47,20 +47,6 @@
 
   
   <url>
-    <loc>http://monkey1565.github.io/tags/Garmont/</loc>
-    <lastmod>2023-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
-    <lastmod>2023-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://monkey1565.github.io/tags/Minolta/</loc>
     <lastmod>2023-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -83,6 +69,20 @@
   
   <url>
     <loc>http://monkey1565.github.io/tags/HimaticE/</loc>
+    <lastmod>2023-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/Garmont/</loc>
+    <lastmod>2023-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
     <lastmod>2023-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
