@@ -6,7 +6,7 @@
   <link href="http://monkey1565.github.io/atom.xml" rel="self"/>
   
   <link href="http://monkey1565.github.io/"/>
-  <updated>2023-09-12T15:23:35.757Z</updated>
+  <updated>2023-09-15T13:54:48.533Z</updated>
   <id>http://monkey1565.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>藍色的魅力：利用藍曬法賦予照片生命</title>
+    <link href="http://monkey1565.github.io/post/fb26fb53.html"/>
+    <id>http://monkey1565.github.io/post/fb26fb53.html</id>
+    <published>2023-09-15T13:40:59.000Z</published>
+    <updated>2023-09-15T13:54:48.533Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="旅遊|攝影" scheme="http://monkey1565.github.io/categories/%E6%97%85%E9%81%8A-%E6%94%9D%E5%BD%B1/"/>
+    
+    
+    <category term="藍曬法" scheme="http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/"/>
+    
+    <category term="底片" scheme="http://monkey1565.github.io/tags/%E5%BA%95%E7%89%87/"/>
+    
+    <category term="藍曬法照片製作" scheme="http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95%E7%85%A7%E7%89%87%E8%A3%BD%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>行動顯微鏡開箱</title>
     <link href="http://monkey1565.github.io/post/46a435ae.html"/>
     <id>http://monkey1565.github.io/post/46a435ae.html</id>
     <published>2023-09-12T15:08:51.000Z</published>
-    <updated>2023-09-12T15:23:35.757Z</updated>
+    <updated>2023-09-12T15:24:20.343Z</updated>
     
     
       
@@ -122,9 +151,9 @@
     <category term="旅遊|攝影" scheme="http://monkey1565.github.io/categories/%E6%97%85%E9%81%8A-%E6%94%9D%E5%BD%B1/"/>
     
     
-    <category term="Minolta" scheme="http://monkey1565.github.io/tags/Minolta/"/>
-    
     <category term="底片" scheme="http://monkey1565.github.io/tags/%E5%BA%95%E7%89%87/"/>
+    
+    <category term="Minolta" scheme="http://monkey1565.github.io/tags/Minolta/"/>
     
     <category term="RF" scheme="http://monkey1565.github.io/tags/RF/"/>
     
