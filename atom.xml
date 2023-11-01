@@ -6,7 +6,7 @@
   <link href="http://monkey1565.github.io/atom.xml" rel="self"/>
   
   <link href="http://monkey1565.github.io/"/>
-  <updated>2023-10-30T02:35:46.212Z</updated>
+  <updated>2023-11-01T03:19:40.265Z</updated>
   <id>http://monkey1565.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023 iPhone電池循環次數查詢教學.md</title>
+    <link href="http://monkey1565.github.io/post/2d3eac8f.html"/>
+    <id>http://monkey1565.github.io/post/2d3eac8f.html</id>
+    <published>2023-11-01T03:11:19.000Z</published>
+    <updated>2023-11-01T03:19:40.265Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近總覺得iPhone 13 pro的電力越來越不給力了，然後電池健康度也一直卡在84%，真不知道是因為更新了iOS</summary>
+        
+      
+    
+    
+    
+    <category term="DIY生活" scheme="http://monkey1565.github.io/categories/DIY%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="iPhone" scheme="http://monkey1565.github.io/tags/iPhone/"/>
+    
+    <category term="電池循環次數" scheme="http://monkey1565.github.io/tags/%E9%9B%BB%E6%B1%A0%E5%BE%AA%E7%92%B0%E6%AC%A1%E6%95%B8/"/>
+    
+    <category term="電池健康度" scheme="http://monkey1565.github.io/tags/%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>【SOTO ST-340 開箱】輕量、火力強勁的露營爐具推薦</title>
@@ -101,9 +130,9 @@
     <category term="旅遊|攝影" scheme="http://monkey1565.github.io/categories/%E6%97%85%E9%81%8A-%E6%94%9D%E5%BD%B1/"/>
     
     
-    <category term="底片" scheme="http://monkey1565.github.io/tags/%E5%BA%95%E7%89%87/"/>
-    
     <category term="藍曬法" scheme="http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/"/>
+    
+    <category term="底片" scheme="http://monkey1565.github.io/tags/%E5%BA%95%E7%89%87/"/>
     
     <category term="藍曬法照片製作" scheme="http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95%E7%85%A7%E7%89%87%E8%A3%BD%E4%BD%9C/"/>
     
@@ -215,9 +244,9 @@
     <category term="旅遊|攝影" scheme="http://monkey1565.github.io/categories/%E6%97%85%E9%81%8A-%E6%94%9D%E5%BD%B1/"/>
     
     
-    <category term="Minolta" scheme="http://monkey1565.github.io/tags/Minolta/"/>
-    
     <category term="底片" scheme="http://monkey1565.github.io/tags/%E5%BA%95%E7%89%87/"/>
+    
+    <category term="Minolta" scheme="http://monkey1565.github.io/tags/Minolta/"/>
     
     <category term="RF" scheme="http://monkey1565.github.io/tags/RF/"/>
     
