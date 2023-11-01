@@ -110,6 +110,20 @@
 
   
   <url>
+    <loc>http://monkey1565.github.io/tags/Garmont/</loc>
+    <lastmod>2023-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
+    <lastmod>2023-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://monkey1565.github.io/tags/70mai/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -131,49 +145,7 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/tags/SOTO/</loc>
-    <lastmod>2023-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/ST-340/</loc>
-    <lastmod>2023-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/%E8%9C%98%E8%9B%9B%E7%88%90/</loc>
-    <lastmod>2023-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/%E9%9C%B2%E7%87%9F/</loc>
-    <lastmod>2023-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/Garmont/</loc>
-    <lastmod>2023-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
-    <lastmod>2023-11-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/</loc>
+    <loc>http://monkey1565.github.io/tags/Minolta/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -181,6 +153,27 @@
   
   <url>
     <loc>http://monkey1565.github.io/tags/%E5%BA%95%E7%89%87/</loc>
+    <lastmod>2023-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/RF/</loc>
+    <lastmod>2023-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/HimaticE/</loc>
+    <lastmod>2023-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -215,21 +208,28 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/tags/Minolta/</loc>
+    <loc>http://monkey1565.github.io/tags/SOTO/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/tags/RF/</loc>
+    <loc>http://monkey1565.github.io/tags/ST-340/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/tags/HimaticE/</loc>
+    <loc>http://monkey1565.github.io/tags/%E8%9C%98%E8%9B%9B%E7%88%90/</loc>
+    <lastmod>2023-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/%E9%9C%B2%E7%87%9F/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -301,14 +301,14 @@
 
   
   <url>
-    <loc>http://monkey1565.github.io/categories/DIY%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://monkey1565.github.io/categories/%E7%99%BB%E5%B1%B1%E5%81%A5%E8%A1%8C/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/categories/%E7%99%BB%E5%B1%B1%E5%81%A5%E8%A1%8C/</loc>
+    <loc>http://monkey1565.github.io/categories/DIY%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
