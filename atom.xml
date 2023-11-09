@@ -6,7 +6,7 @@
   <link href="http://monkey1565.github.io/atom.xml" rel="self"/>
   
   <link href="http://monkey1565.github.io/"/>
-  <updated>2023-11-09T04:01:26.716Z</updated>
+  <updated>2023-11-09T04:03:32.197Z</updated>
   <id>http://monkey1565.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://monkey1565.github.io/diylife/2023/55ab9900.html"/>
     <id>http://monkey1565.github.io/diylife/2023/55ab9900.html</id>
     <published>2023-11-03T08:01:46.000Z</published>
-    <updated>2023-11-09T04:01:26.716Z</updated>
+    <updated>2023-11-09T04:03:32.197Z</updated>
     
     
       
@@ -161,9 +161,9 @@
     <category term="旅遊|攝影" scheme="http://monkey1565.github.io/categories/travelphotography/"/>
     
     
-    <category term="藍曬法" scheme="http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/"/>
-    
     <category term="底片" scheme="http://monkey1565.github.io/tags/%E5%BA%95%E7%89%87/"/>
+    
+    <category term="藍曬法" scheme="http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/"/>
     
     <category term="藍曬法照片製作" scheme="http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95%E7%85%A7%E7%89%87%E8%A3%BD%E4%BD%9C/"/>
     
@@ -275,9 +275,9 @@
     <category term="旅遊|攝影" scheme="http://monkey1565.github.io/categories/travelphotography/"/>
     
     
-    <category term="底片" scheme="http://monkey1565.github.io/tags/%E5%BA%95%E7%89%87/"/>
-    
     <category term="Minolta" scheme="http://monkey1565.github.io/tags/Minolta/"/>
+    
+    <category term="底片" scheme="http://monkey1565.github.io/tags/%E5%BA%95%E7%89%87/"/>
     
     <category term="RF" scheme="http://monkey1565.github.io/tags/RF/"/>
     
