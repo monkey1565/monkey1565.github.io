@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://monkey1565.github.io/post/55ab9900.html</loc>
+    <loc>http://monkey1565.github.io/outdoor/2023/b289b3c7.html</loc>
+    
+    <lastmod>2023-11-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/diylife/2023/55ab9900.html</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/post/2d3eac8f.html</loc>
+    <loc>http://monkey1565.github.io/diylife/2023/2d3eac8f.html</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/post/c6ab4d33.html</loc>
+    <loc>http://monkey1565.github.io/diylife/2023/c6ab4d33.html</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/post/b289b3c7.html</loc>
+    <loc>http://monkey1565.github.io/travelphotography/2023/7fdd1555.html</loc>
     
     <lastmod>2023-10-30</lastmod>
     
@@ -38,16 +47,7 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/post/7fdd1555.html</loc>
-    
-    <lastmod>2023-10-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/post/46a435ae.html</loc>
+    <loc>http://monkey1565.github.io/diylife/2023/46a435ae.html</loc>
     
     <lastmod>2023-09-24</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/post/fb26fb53.html</loc>
+    <loc>http://monkey1565.github.io/travelphotography/2023/fb26fb53.html</loc>
     
     <lastmod>2023-09-15</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/post/9bcb80f8.html</loc>
+    <loc>http://monkey1565.github.io/travelphotography/2023/9bcb80f8.html</loc>
     
     <lastmod>2023-08-16</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/post/9b07003e.html</loc>
+    <loc>http://monkey1565.github.io/diylife/2023/9b07003e.html</loc>
     
     <lastmod>2023-07-09</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/post/37b585af.html</loc>
+    <loc>http://monkey1565.github.io/outdoor/2023/37b585af.html</loc>
     
     <lastmod>2023-06-29</lastmod>
     
@@ -117,6 +117,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/70mai/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/ZACE/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%99%A8/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://monkey1565.github.io/tags/1Zpresso/</loc>
@@ -141,41 +162,6 @@
   
   <url>
     <loc>http://monkey1565.github.io/tags/Hand-coffee-grinder/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/Garmont/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/70mai/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/ZACE/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%99%A8/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -238,14 +224,35 @@
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/</loc>
+    <loc>http://monkey1565.github.io/tags/Garmont/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95%E7%85%A7%E7%89%87%E8%A3%BD%E4%BD%9C/</loc>
+    <loc>http://monkey1565.github.io/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/%E5%9F%BA%E9%9A%86%E5%B6%BC/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/Klook/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/%E6%99%89%E9%BE%8D%E8%99%9F/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -308,28 +315,21 @@
   </url>
   
   <url>
+    <loc>http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://monkey1565.github.io/tags/%E8%97%8D%E6%9B%AC%E6%B3%95%E7%85%A7%E7%89%87%E8%A3%BD%E4%BD%9C/</loc>
+    <lastmod>2023-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://monkey1565.github.io/tags/%E8%A1%8C%E5%8B%95%E9%A1%AF%E5%BE%AE%E9%8F%A1/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/%E5%9F%BA%E9%9A%86%E5%B6%BC/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/Klook/</loc>
-    <lastmod>2023-11-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://monkey1565.github.io/tags/%E6%99%89%E9%BE%8D%E8%99%9F/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -338,21 +338,21 @@
 
   
   <url>
-    <loc>http://monkey1565.github.io/categories/DIY%E7%94%9F%E6%B4%BB/</loc>
+    <loc>http://monkey1565.github.io/categories/diylife/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/categories/%E7%99%BB%E5%B1%B1%E5%81%A5%E8%A1%8C/</loc>
+    <loc>http://monkey1565.github.io/categories/travelphotography/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://monkey1565.github.io/categories/%E6%97%85%E9%81%8A-%E6%94%9D%E5%BD%B1/</loc>
+    <loc>http://monkey1565.github.io/categories/outdoor/</loc>
     <lastmod>2023-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
