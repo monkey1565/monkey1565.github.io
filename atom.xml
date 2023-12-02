@@ -6,7 +6,7 @@
   <link href="http://monkey1565.github.io/atom.xml" rel="self"/>
   
   <link href="http://monkey1565.github.io/"/>
-  <updated>2023-11-11T16:01:49.345Z</updated>
+  <updated>2023-12-02T15:01:56.466Z</updated>
   <id>http://monkey1565.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MY150機車電瓶DIY教學，零基礎也能學會</title>
+    <link href="http://monkey1565.github.io/diylife/2023/2539990738.html"/>
+    <id>http://monkey1565.github.io/diylife/2023/2539990738.html</id>
+    <published>2023-12-02T14:46:13.000Z</published>
+    <updated>2023-12-02T15:01:56.466Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="DIY生活" scheme="http://monkey1565.github.io/categories/diylife/"/>
+    
+    
+    <category term="MY150" scheme="http://monkey1565.github.io/tags/MY150/"/>
+    
+    <category term="機車電瓶" scheme="http://monkey1565.github.io/tags/%E6%A9%9F%E8%BB%8A%E9%9B%BB%E7%93%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>【TOSHIBA和日吸頂燈開箱安裝】三步驟DIY輕鬆搞定</title>
@@ -157,9 +184,9 @@
     <category term="DIY生活" scheme="http://monkey1565.github.io/categories/diylife/"/>
     
     
-    <category term="科學Maker" scheme="http://monkey1565.github.io/tags/%E7%A7%91%E5%AD%B8Maker/"/>
-    
     <category term="手機光譜儀" scheme="http://monkey1565.github.io/tags/%E6%89%8B%E6%A9%9F%E5%85%89%E8%AD%9C%E5%84%80/"/>
+    
+    <category term="科學Maker" scheme="http://monkey1565.github.io/tags/%E7%A7%91%E5%AD%B8Maker/"/>
     
     <category term="SciView" scheme="http://monkey1565.github.io/tags/SciView/"/>
     
