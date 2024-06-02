@@ -6,15 +6,42 @@
   <link href="http://monkey1565.github.io/atom.xml" rel="self"/>
   
   <link href="http://monkey1565.github.io/"/>
-  <updated>2024-05-25T08:52:23.850Z</updated>
+  <updated>2024-06-02T08:33:38.615Z</updated>
   <id>http://monkey1565.github.io/</id>
   
   <author>
-    <name>HW</name>
+    <name>Will 阿緯</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MY150 喇叭維修DIY，喇叭只是提醒你不是發出戰鬥邀請</title>
+    <link href="http://monkey1565.github.io/diylife/2024/992337511.html"/>
+    <id>http://monkey1565.github.io/diylife/2024/992337511.html</id>
+    <published>2024-06-02T07:01:20.000Z</published>
+    <updated>2024-06-02T08:33:38.615Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;MY150的喇叭已經壞了有一陣子了，雖然心裡想說有問題閃閃大燈就好，沒有喇叭比較不會在路上發起戰鬥邀請(?)</summary>
+        
+      
+    
+    
+    
+    <category term="DIY生活" scheme="http://monkey1565.github.io/categories/diylife/"/>
+    
+    
+    <category term="MY150" scheme="http://monkey1565.github.io/tags/MY150/"/>
+    
+    <category term="機車喇叭" scheme="http://monkey1565.github.io/tags/%E6%A9%9F%E8%BB%8A%E5%96%87%E5%8F%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>Redmi Buds 5 開箱體驗：是否能成為你的日常搭檔？</title>
@@ -265,9 +292,9 @@
     <category term="DIY生活" scheme="http://monkey1565.github.io/categories/diylife/"/>
     
     
-    <category term="科學Maker" scheme="http://monkey1565.github.io/tags/%E7%A7%91%E5%AD%B8Maker/"/>
-    
     <category term="手機光譜儀" scheme="http://monkey1565.github.io/tags/%E6%89%8B%E6%A9%9F%E5%85%89%E8%AD%9C%E5%84%80/"/>
+    
+    <category term="科學Maker" scheme="http://monkey1565.github.io/tags/%E7%A7%91%E5%AD%B8Maker/"/>
     
     <category term="SciView" scheme="http://monkey1565.github.io/tags/SciView/"/>
     
