@@ -6,7 +6,7 @@
   <link href="http://monkey1565.github.io/atom.xml" rel="self"/>
   
   <link href="http://monkey1565.github.io/"/>
-  <updated>2024-06-19T05:45:24.857Z</updated>
+  <updated>2024-06-29T11:01:36.590Z</updated>
   <id>http://monkey1565.github.io/</id>
   
   <author>
@@ -17,24 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://monkey1565.github.io/uncategorized/2024/992337511.html"/>
-    <id>http://monkey1565.github.io/uncategorized/2024/992337511.html</id>
-    <published>2024-06-02T07:01:20.233Z</published>
-    <updated>2024-06-19T05:45:24.857Z</updated>
+    <title>MY150 喇叭維修DIY，喇叭只是提醒你不是發出戰鬥邀請</title>
+    <link href="http://monkey1565.github.io/diylife/2024/992337511.html"/>
+    <id>http://monkey1565.github.io/diylife/2024/992337511.html</id>
+    <published>2024-06-02T07:01:20.000Z</published>
+    <updated>2024-06-29T11:01:36.590Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;hr&gt;
-&lt;h2</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;MY150的喇叭已經壞了有一陣子了，雖然心裡想說有問題閃閃大燈就好，沒有喇叭比較不會在路上發起戰鬥邀請(?)</summary>
         
       
     
     
     
+    <category term="DIY生活" scheme="http://monkey1565.github.io/categories/diylife/"/>
+    
+    
+    <category term="MY150" scheme="http://monkey1565.github.io/tags/MY150/"/>
+    
+    <category term="機車喇叭" scheme="http://monkey1565.github.io/tags/%E6%A9%9F%E8%BB%8A%E5%96%87%E5%8F%AD/"/>
     
   </entry>
   
@@ -50,7 +55,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -79,7 +84,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -104,7 +109,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -131,7 +136,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -158,8 +163,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
-&lt;p&gt;最近因為辦公室在整修，因此有了一些時間回老家居家上班。房間用的還是20年前的T8</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近因為辦公室在整修，因此有了一些時間回老家居家上班。房間用的還是20年前的T8</summary>
         
       
     
@@ -188,7 +192,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -219,8 +223,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
-&lt;p&gt;最近總覺得iPhone 13 pro的電力越來越不給力了，然後電池健康度也一直卡在84%，真不知道是因為更新了iOS</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近總覺得iPhone 13 pro的電力越來越不給力了，然後電池健康度也一直卡在84%，真不知道是因為更新了iOS</summary>
         
       
     
@@ -249,7 +252,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -280,7 +283,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -313,7 +316,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -342,8 +345,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
-&lt;p&gt;加入台大江老師所建立的FB社團</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;加入台大江老師所建立的FB社團</summary>
         
       
     
@@ -370,7 +372,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -399,8 +401,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
-&lt;p&gt;家裡的老車TOYOTA ZACE</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;家裡的老車TOYOTA ZACE</summary>
         
       
     
@@ -429,8 +430,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
-&lt;p&gt;今天來記錄一下常用的底片機之一，Minolta Hi-matic</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;今天來記錄一下常用的底片機之一，Minolta Hi-matic</summary>
         
       
     
@@ -461,8 +461,7 @@
       
         
         
-    <summary type="html">&lt;h1&gt;前言&lt;/h1&gt;
-&lt;p&gt;上個月底吃著餅乾哼著歌在走&lt;a href=&quot;https://taipeigrandtrail.gov.taipei/&quot;&gt;臺北大縱走&lt;/a&gt;第六段時，突然間踢到一個石頭，跟著我五六年開啟我登山之路的merrell capra</summary>
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;上個月底吃著餅乾哼著歌在走&lt;a</summary>
         
       
     
