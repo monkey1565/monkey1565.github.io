@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.whatwillsay.tw/unboxing/2025/4073576291.html</loc>
-    
-    <lastmod>2025-02-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.whatwillsay.tw/diylife/2025/1108025061.html</loc>
     
     <lastmod>2025-02-20</lastmod>
@@ -20,36 +11,18 @@
   </url>
   
   <url>
+    <loc>http://www.whatwillsay.tw/unboxing/2025/4073576291.html</loc>
+    
+    <lastmod>2025-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.whatwillsay.tw/diylife/2024/992337511.html</loc>
     
-    <lastmod>2025-02-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.whatwillsay.tw/diylife/2024/2375653926.html</loc>
-    
-    <lastmod>2025-02-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.whatwillsay.tw/diylife/2023/2539990738.html</loc>
-    
-    <lastmod>2025-02-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.whatwillsay.tw/diylife/2023/c6ab4d33.html</loc>
-    
-    <lastmod>2025-02-03</lastmod>
+    <lastmod>2024-06-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,16 +31,16 @@
   <url>
     <loc>http://www.whatwillsay.tw/unboxing/2024/3146747173.html</loc>
     
-    <lastmod>2024-06-19</lastmod>
+    <lastmod>2024-05-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://www.whatwillsay.tw/outdoor/2023/b289b3c7.html</loc>
+    <loc>http://www.whatwillsay.tw/diylife/2024/2375653926.html</loc>
     
-    <lastmod>2024-06-19</lastmod>
+    <lastmod>2024-05-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,23 +49,14 @@
   <url>
     <loc>http://www.whatwillsay.tw/unboxing/2024/1356633398.html</loc>
     
-    <lastmod>2024-06-19</lastmod>
+    <lastmod>2024-04-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://www.whatwillsay.tw/diylife/2023/2d3eac8f.html</loc>
-    
-    <lastmod>2024-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.whatwillsay.tw/diylife/2023/55ab9900.html</loc>
+    <loc>http://www.whatwillsay.tw/diylife/2023/2539990738.html</loc>
     
     <lastmod>2023-12-02</lastmod>
     
@@ -103,15 +67,6 @@
   <url>
     <loc>http://www.whatwillsay.tw/diylife/2023/267672838.html</loc>
     
-    <lastmod>2023-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.whatwillsay.tw/travelphotography/2023/9bcb80f8.html</loc>
-    
     <lastmod>2023-11-10</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -119,27 +74,36 @@
   </url>
   
   <url>
-    <loc>http://www.whatwillsay.tw/diylife/2023/46a435ae.html</loc>
+    <loc>http://www.whatwillsay.tw/diylife/2023/55ab9900.html</loc>
     
-    <lastmod>2023-11-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.whatwillsay.tw/travelphotography/2023/7fdd1555.html</loc>
-    
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2023-11-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://www.whatwillsay.tw/outdoor/2023/37b585af.html</loc>
+    <loc>http://www.whatwillsay.tw/diylife/2023/2d3eac8f.html</loc>
     
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2023-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/outdoor/2023/b289b3c7.html</loc>
+    
+    <lastmod>2023-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/diylife/2023/c6ab4d33.html</loc>
+    
+    <lastmod>2023-09-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,7 +112,25 @@
   <url>
     <loc>http://www.whatwillsay.tw/travelphotography/2023/fb26fb53.html</loc>
     
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2023-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/diylife/2023/46a435ae.html</loc>
+    
+    <lastmod>2023-09-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/travelphotography/2023/9bcb80f8.html</loc>
+    
+    <lastmod>2023-07-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,14 +139,14 @@
   <url>
     <loc>http://www.whatwillsay.tw/diylife/2023/9b07003e.html</loc>
     
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2023-07-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://www.whatwillsay.tw/categories/index.html</loc>
+    <loc>http://www.whatwillsay.tw/travelphotography/2023/7fdd1555.html</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -175,7 +157,25 @@
   <url>
     <loc>http://www.whatwillsay.tw/tags/index.html</loc>
     
-    <lastmod>2023-06-30</lastmod>
+    <lastmod>2023-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/categories/index.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/outdoor/2023/37b585af.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -189,6 +189,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/tags/Garmont/</loc>
+    <lastmod>2025-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
+    <lastmod>2025-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://www.whatwillsay.tw/tags/70mai/</loc>
@@ -240,20 +254,6 @@
   </url>
   
   <url>
-    <loc>http://www.whatwillsay.tw/tags/Garmont/</loc>
-    <lastmod>2025-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.whatwillsay.tw/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
-    <lastmod>2025-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.whatwillsay.tw/tags/MY150/</loc>
     <lastmod>2025-02-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -289,6 +289,13 @@
   </url>
   
   <url>
+    <loc>http://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E9%9B%BB%E7%93%B6/</loc>
+    <lastmod>2025-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.whatwillsay.tw/tags/Minolta/</loc>
     <lastmod>2025-02-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -311,13 +318,6 @@
   
   <url>
     <loc>http://www.whatwillsay.tw/tags/HimaticE/</loc>
-    <lastmod>2025-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E9%9B%BB%E7%93%B6/</loc>
     <lastmod>2025-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -436,20 +436,6 @@
   </url>
   
   <url>
-    <loc>http://www.whatwillsay.tw/tags/%E7%84%A1%E7%B7%9A%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90/</loc>
-    <lastmod>2025-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.whatwillsay.tw/tags/Qi2-0/</loc>
-    <lastmod>2025-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.whatwillsay.tw/tags/%E5%9F%BA%E9%9A%86%E5%B6%BC/</loc>
     <lastmod>2025-02-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -465,6 +451,20 @@
   
   <url>
     <loc>http://www.whatwillsay.tw/tags/%E6%99%89%E9%BE%8D%E8%99%9F/</loc>
+    <lastmod>2025-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/tags/%E7%84%A1%E7%B7%9A%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90/</loc>
+    <lastmod>2025-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.whatwillsay.tw/tags/Qi2-0/</loc>
     <lastmod>2025-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -522,14 +522,14 @@
 
   
   <url>
-    <loc>http://www.whatwillsay.tw/categories/diylife/</loc>
+    <loc>http://www.whatwillsay.tw/categories/outdoor/</loc>
     <lastmod>2025-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.whatwillsay.tw/categories/outdoor/</loc>
+    <loc>http://www.whatwillsay.tw/categories/diylife/</loc>
     <lastmod>2025-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
