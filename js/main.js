@@ -829,7 +829,22 @@ document.addEventListener('DOMContentLoaded', () => {
     window.lazyLoadInstance = new LazyLoad({
       elements_selector: 'img',
       threshold: 0,
-      data_src: 'lazy-src'
+      data_src: 'lazy-src',
+      // 添加載入前的佔位符處理
+      callback_loading: (element) => {
+        element.style.opacity = '0'
+        element.style.transition = 'opacity 0.3s ease'
+      },
+      callback_loaded: (element) => {
+        element.style.opacity = '1'
+        // 確保圖片載入後觸發佈局重新計算
+        if (element.closest('.recent-post-item')) {
+          element.closest('.recent-post-item').style.minHeight = 'auto'
+        }
+      },
+      callback_error: (element) => {
+        element.style.opacity = '0.5'
+      }
     })
 
     btf.addGlobalFn('pjaxComplete', () => {
@@ -873,6 +888,9 @@ document.addEventListener('DOMContentLoaded', () => {
     clickFnOfSubMenu()
     GLOBAL_CONFIG.islazyloadPlugin && lazyloadImg()
     GLOBAL_CONFIG.copyright !== undefined && addCopyright()
+    
+    // 添加預載入提示
+    addPreloadHints()
 
     if (GLOBAL_CONFIG.autoDarkmode) {
       window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
