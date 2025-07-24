@@ -2240,6 +2240,11 @@ figure.highlight pre .javascript .function {
 }
 @media screen and (max-width: 768px) {
   #recent-posts .recent-post-item {
+    min-height: 180px;
+  }
+}
+@media screen and (max-width: 768px) {
+  #recent-posts .recent-post-item {
     width: 100%;
     aspect-ratio: 1.5;
   }
@@ -2274,6 +2279,13 @@ figure.highlight pre .javascript .function {
     height: 230px;
   }
 }
+@media screen and (max-width: 768px) {
+  #recent-posts .recent-post-item .post_cover {
+    min-height: 160px;
+    aspect-ratio: 16/9;
+    height: auto !important;
+  }
+}
 #recent-posts .recent-post-item .post_cover .post-bg {
   z-index: -4;
   background-color: var(--card-bg);
@@ -2282,6 +2294,12 @@ figure.highlight pre .javascript .function {
   -o-transition: opacity 0.3s ease;
   -ms-transition: opacity 0.3s ease;
   transition: opacity 0.3s ease;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  display: block;
+  min-height: 160px;
 }
 #recent-posts .recent-post-item .post_cover .post-bg[src]:not([src=""]) {
   opacity: 1;
@@ -2293,6 +2311,12 @@ figure.highlight pre .javascript .function {
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   filter: alpha(opacity=0);
+}
+@media screen and (max-width: 768px) {
+  #recent-posts .recent-post-item .post_cover .post-bg {
+    min-height: 120px;
+    aspect-ratio: 16/9;
+  }
 }
 #recent-posts .recent-post-item >.recent-post-info {
   padding: 30px 30px 25px;
@@ -2334,6 +2358,7 @@ figure.highlight pre .javascript .function {
 @media screen and (max-width: 768px) {
   #recent-posts .recent-post-item >.recent-post-info > .article-title {
     font-size: 1.43em;
+    min-height: 2.2em;
   }
 }
 #recent-posts .recent-post-item >.recent-post-info > .article-title:hover {
@@ -2371,6 +2396,12 @@ figure.highlight pre .javascript .function {
 }
 #recent-posts .recent-post-item >.recent-post-info > .content {
   -webkit-line-clamp: 2;
+  min-height: 2.2em;
+}
+@media screen and (max-width: 768px) {
+  #recent-posts .recent-post-item >.recent-post-info > .content {
+    min-height: 1.8em;
+  }
 }
 #article-container .shuoshuo-item {
   margin-bottom: 20px;
