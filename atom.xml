@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿緯碎碎唸</title>
-  <icon>http://www.whatwillsay.tw/icon.png</icon>
+  <icon>https://www.whatwillsay.tw/icon.png</icon>
   
-  <link href="http://www.whatwillsay.tw/atom.xml" rel="self"/>
+  <link href="https://www.whatwillsay.tw/atom.xml" rel="self"/>
   
-  <link href="http://www.whatwillsay.tw/"/>
+  <link href="https://www.whatwillsay.tw/"/>
   <updated>2025-04-09T16:23:55.000Z</updated>
-  <id>http://www.whatwillsay.tw/</id>
+  <id>https://www.whatwillsay.tw/</id>
   
   <author>
     <name>Will 阿緯</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>自己的梅酒自己釀：超簡單自釀梅酒攻略</title>
-    <link href="http://www.whatwillsay.tw/diylife/2025/3364048234.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2025/3364048234.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2025/3364048234.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2025/3364048234.html</id>
     <published>2025-04-09T16:23:55.000Z</published>
     <updated>2025-04-09T16:23:55.000Z</updated>
     
@@ -28,23 +28,23 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="自釀梅酒" scheme="http://www.whatwillsay.tw/tags/%E8%87%AA%E9%87%80%E6%A2%85%E9%85%92/"/>
+    <category term="自釀梅酒" scheme="https://www.whatwillsay.tw/tags/%E8%87%AA%E9%87%80%E6%A2%85%E9%85%92/"/>
     
-    <category term="梅酒" scheme="http://www.whatwillsay.tw/tags/%E6%A2%85%E9%85%92/"/>
+    <category term="梅酒" scheme="https://www.whatwillsay.tw/tags/%E6%A2%85%E9%85%92/"/>
     
-    <category term="梅酒比例" scheme="http://www.whatwillsay.tw/tags/%E6%A2%85%E9%85%92%E6%AF%94%E4%BE%8B/"/>
+    <category term="梅酒比例" scheme="https://www.whatwillsay.tw/tags/%E6%A2%85%E9%85%92%E6%AF%94%E4%BE%8B/"/>
     
-    <category term="自釀梅酒基酒選擇" scheme="http://www.whatwillsay.tw/tags/%E8%87%AA%E9%87%80%E6%A2%85%E9%85%92%E5%9F%BA%E9%85%92%E9%81%B8%E6%93%87/"/>
+    <category term="自釀梅酒基酒選擇" scheme="https://www.whatwillsay.tw/tags/%E8%87%AA%E9%87%80%E6%A2%85%E9%85%92%E5%9F%BA%E9%85%92%E9%81%B8%E6%93%87/"/>
     
   </entry>
   
   <entry>
     <title>SHARP 55W 明悅吸頂燈開箱與安裝實測：安裝超簡單，亮度、色溫隨心調！</title>
-    <link href="http://www.whatwillsay.tw/diylife/2025/4136004490.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2025/4136004490.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2025/4136004490.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2025/4136004490.html</id>
     <published>2025-03-14T16:37:42.000Z</published>
     <updated>2025-03-14T16:37:42.000Z</updated>
     
@@ -53,19 +53,19 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="吸頂燈" scheme="http://www.whatwillsay.tw/tags/%E5%90%B8%E9%A0%82%E7%87%88/"/>
+    <category term="吸頂燈" scheme="https://www.whatwillsay.tw/tags/%E5%90%B8%E9%A0%82%E7%87%88/"/>
     
-    <category term="sharp" scheme="http://www.whatwillsay.tw/tags/sharp/"/>
+    <category term="sharp" scheme="https://www.whatwillsay.tw/tags/sharp/"/>
     
   </entry>
   
   <entry>
     <title>MY150 離合器線與空濾 DIY 更換全攻略：省錢又安心！</title>
-    <link href="http://www.whatwillsay.tw/diylife/2025/1108025061.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2025/1108025061.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2025/1108025061.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2025/1108025061.html</id>
     <published>2025-02-20T15:49:20.000Z</published>
     <updated>2025-02-20T15:49:20.000Z</updated>
     
@@ -80,23 +80,23 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="MY150" scheme="http://www.whatwillsay.tw/tags/MY150/"/>
+    <category term="MY150" scheme="https://www.whatwillsay.tw/tags/MY150/"/>
     
-    <category term="離合器線" scheme="http://www.whatwillsay.tw/tags/%E9%9B%A2%E5%90%88%E5%99%A8%E7%B7%9A/"/>
+    <category term="離合器線" scheme="https://www.whatwillsay.tw/tags/%E9%9B%A2%E5%90%88%E5%99%A8%E7%B7%9A/"/>
     
-    <category term="空濾" scheme="http://www.whatwillsay.tw/tags/%E7%A9%BA%E6%BF%BE/"/>
+    <category term="空濾" scheme="https://www.whatwillsay.tw/tags/%E7%A9%BA%E6%BF%BE/"/>
     
-    <category term="DIY" scheme="http://www.whatwillsay.tw/tags/DIY/"/>
+    <category term="DIY" scheme="https://www.whatwillsay.tw/tags/DIY/"/>
     
   </entry>
   
   <entry>
     <title>小米無線行動電源6000值得買嗎？開箱告訴你答案！</title>
-    <link href="http://www.whatwillsay.tw/unboxing/2025/4073576291.html"/>
-    <id>http://www.whatwillsay.tw/unboxing/2025/4073576291.html</id>
+    <link href="https://www.whatwillsay.tw/unboxing/2025/4073576291.html"/>
+    <id>https://www.whatwillsay.tw/unboxing/2025/4073576291.html</id>
     <published>2025-01-19T08:48:59.000Z</published>
     <updated>2025-01-19T08:48:59.000Z</updated>
     
@@ -111,21 +111,21 @@
     
     
     
-    <category term="其他開箱" scheme="http://www.whatwillsay.tw/categories/unboxing/"/>
+    <category term="其他開箱" scheme="https://www.whatwillsay.tw/categories/unboxing/"/>
     
     
-    <category term="小米" scheme="http://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
+    <category term="小米" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
     
-    <category term="無線行動電源" scheme="http://www.whatwillsay.tw/tags/%E7%84%A1%E7%B7%9A%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90/"/>
+    <category term="無線行動電源" scheme="https://www.whatwillsay.tw/tags/%E7%84%A1%E7%B7%9A%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90/"/>
     
-    <category term="Qi2.0" scheme="http://www.whatwillsay.tw/tags/Qi2-0/"/>
+    <category term="Qi2.0" scheme="https://www.whatwillsay.tw/tags/Qi2-0/"/>
     
   </entry>
   
   <entry>
     <title>MY150 喇叭維修DIY，喇叭只是提醒你不是發出戰鬥邀請</title>
-    <link href="http://www.whatwillsay.tw/diylife/2024/992337511.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2024/992337511.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2024/992337511.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2024/992337511.html</id>
     <published>2024-06-02T07:01:20.000Z</published>
     <updated>2024-06-02T07:01:20.000Z</updated>
     
@@ -140,19 +140,19 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="MY150" scheme="http://www.whatwillsay.tw/tags/MY150/"/>
+    <category term="MY150" scheme="https://www.whatwillsay.tw/tags/MY150/"/>
     
-    <category term="機車喇叭" scheme="http://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E5%96%87%E5%8F%AD/"/>
+    <category term="機車喇叭" scheme="https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E5%96%87%E5%8F%AD/"/>
     
   </entry>
   
   <entry>
     <title>Redmi Buds 5 開箱體驗：是否能成為你的日常搭檔？</title>
-    <link href="http://www.whatwillsay.tw/unboxing/2024/3146747173.html"/>
-    <id>http://www.whatwillsay.tw/unboxing/2024/3146747173.html</id>
+    <link href="https://www.whatwillsay.tw/unboxing/2024/3146747173.html"/>
+    <id>https://www.whatwillsay.tw/unboxing/2024/3146747173.html</id>
     <published>2024-05-25T08:27:45.000Z</published>
     <updated>2024-05-25T08:27:45.000Z</updated>
     
@@ -167,21 +167,21 @@
     
     
     
-    <category term="其他開箱" scheme="http://www.whatwillsay.tw/categories/unboxing/"/>
+    <category term="其他開箱" scheme="https://www.whatwillsay.tw/categories/unboxing/"/>
     
     
-    <category term="小米" scheme="http://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
+    <category term="小米" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
     
-    <category term="Redmi Buds 5" scheme="http://www.whatwillsay.tw/tags/Redmi-Buds-5/"/>
+    <category term="Redmi Buds 5" scheme="https://www.whatwillsay.tw/tags/Redmi-Buds-5/"/>
     
-    <category term="藍牙耳機" scheme="http://www.whatwillsay.tw/tags/%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F/"/>
+    <category term="藍牙耳機" scheme="https://www.whatwillsay.tw/tags/%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F/"/>
     
   </entry>
   
   <entry>
     <title>RO逆滲透濾心更換不求人，輕鬆換安心喝</title>
-    <link href="http://www.whatwillsay.tw/diylife/2024/2375653926.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2024/2375653926.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2024/2375653926.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2024/2375653926.html</id>
     <published>2024-05-03T15:47:00.000Z</published>
     <updated>2024-05-03T15:47:00.000Z</updated>
     
@@ -196,17 +196,17 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="RO濾心更換DIY" scheme="http://www.whatwillsay.tw/tags/RO%E6%BF%BE%E5%BF%83%E6%9B%B4%E6%8F%9BDIY/"/>
+    <category term="RO濾心更換DIY" scheme="https://www.whatwillsay.tw/tags/RO%E6%BF%BE%E5%BF%83%E6%9B%B4%E6%8F%9BDIY/"/>
     
   </entry>
   
   <entry>
     <title>小米體脂機S400開箱 同場加映Inbody 120比對</title>
-    <link href="http://www.whatwillsay.tw/unboxing/2024/1356633398.html"/>
-    <id>http://www.whatwillsay.tw/unboxing/2024/1356633398.html</id>
+    <link href="https://www.whatwillsay.tw/unboxing/2024/1356633398.html"/>
+    <id>https://www.whatwillsay.tw/unboxing/2024/1356633398.html</id>
     <published>2024-04-10T04:36:45.000Z</published>
     <updated>2024-04-10T04:36:45.000Z</updated>
     
@@ -221,19 +221,19 @@
     
     
     
-    <category term="其他開箱" scheme="http://www.whatwillsay.tw/categories/unboxing/"/>
+    <category term="其他開箱" scheme="https://www.whatwillsay.tw/categories/unboxing/"/>
     
     
-    <category term="小米" scheme="http://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
+    <category term="小米" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
     
-    <category term="小米體脂計S400" scheme="http://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3%E9%AB%94%E8%84%82%E8%A8%88S400/"/>
+    <category term="小米體脂計S400" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3%E9%AB%94%E8%84%82%E8%A8%88S400/"/>
     
   </entry>
   
   <entry>
     <title>MY150機車電瓶DIY教學，零基礎也能學會</title>
-    <link href="http://www.whatwillsay.tw/diylife/2023/2539990738.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2023/2539990738.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2023/2539990738.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/2539990738.html</id>
     <published>2023-12-02T14:46:13.000Z</published>
     <updated>2023-12-02T14:46:13.000Z</updated>
     
@@ -248,19 +248,19 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="MY150" scheme="http://www.whatwillsay.tw/tags/MY150/"/>
+    <category term="MY150" scheme="https://www.whatwillsay.tw/tags/MY150/"/>
     
-    <category term="機車電瓶" scheme="http://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E9%9B%BB%E7%93%B6/"/>
+    <category term="機車電瓶" scheme="https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E9%9B%BB%E7%93%B6/"/>
     
   </entry>
   
   <entry>
     <title>【TOSHIBA和日吸頂燈開箱安裝】三步驟DIY輕鬆搞定</title>
-    <link href="http://www.whatwillsay.tw/diylife/2023/267672838.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2023/267672838.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2023/267672838.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/267672838.html</id>
     <published>2023-11-10T08:00:40.000Z</published>
     <updated>2023-11-10T08:00:40.000Z</updated>
     
@@ -275,21 +275,21 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="吸頂燈" scheme="http://www.whatwillsay.tw/tags/%E5%90%B8%E9%A0%82%E7%87%88/"/>
+    <category term="吸頂燈" scheme="https://www.whatwillsay.tw/tags/%E5%90%B8%E9%A0%82%E7%87%88/"/>
     
-    <category term="Toshiba" scheme="http://www.whatwillsay.tw/tags/Toshiba/"/>
+    <category term="Toshiba" scheme="https://www.whatwillsay.tw/tags/Toshiba/"/>
     
-    <category term="和日" scheme="http://www.whatwillsay.tw/tags/%E5%92%8C%E6%97%A5/"/>
+    <category term="和日" scheme="https://www.whatwillsay.tw/tags/%E5%92%8C%E6%97%A5/"/>
     
   </entry>
   
   <entry>
     <title>【1Zpresso Q air】輕便型手搖磨豆機開箱：攜帶方便、研磨均勻、價格實惠</title>
-    <link href="http://www.whatwillsay.tw/diylife/2023/55ab9900.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2023/55ab9900.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2023/55ab9900.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/55ab9900.html</id>
     <published>2023-11-03T08:01:46.000Z</published>
     <updated>2023-11-03T08:01:46.000Z</updated>
     
@@ -304,23 +304,23 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="1Zpresso" scheme="http://www.whatwillsay.tw/tags/1Zpresso/"/>
+    <category term="1Zpresso" scheme="https://www.whatwillsay.tw/tags/1Zpresso/"/>
     
-    <category term="1Zpresso Q Air" scheme="http://www.whatwillsay.tw/tags/1Zpresso-Q-Air/"/>
+    <category term="1Zpresso Q Air" scheme="https://www.whatwillsay.tw/tags/1Zpresso-Q-Air/"/>
     
-    <category term="手搖磨豆機" scheme="http://www.whatwillsay.tw/tags/%E6%89%8B%E6%90%96%E7%A3%A8%E8%B1%86%E6%A9%9F/"/>
+    <category term="手搖磨豆機" scheme="https://www.whatwillsay.tw/tags/%E6%89%8B%E6%90%96%E7%A3%A8%E8%B1%86%E6%A9%9F/"/>
     
-    <category term="Hand coffee grinder" scheme="http://www.whatwillsay.tw/tags/Hand-coffee-grinder/"/>
+    <category term="Hand coffee grinder" scheme="https://www.whatwillsay.tw/tags/Hand-coffee-grinder/"/>
     
   </entry>
   
   <entry>
     <title>2023 iPhone電池循環次數查詢教學</title>
-    <link href="http://www.whatwillsay.tw/diylife/2023/2d3eac8f.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2023/2d3eac8f.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2023/2d3eac8f.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/2d3eac8f.html</id>
     <published>2023-11-01T03:11:19.000Z</published>
     <updated>2023-11-01T03:11:19.000Z</updated>
     
@@ -335,21 +335,21 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="iPhone" scheme="http://www.whatwillsay.tw/tags/iPhone/"/>
+    <category term="iPhone" scheme="https://www.whatwillsay.tw/tags/iPhone/"/>
     
-    <category term="電池循環次數" scheme="http://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%BE%AA%E7%92%B0%E6%AC%A1%E6%95%B8/"/>
+    <category term="電池循環次數" scheme="https://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%BE%AA%E7%92%B0%E6%AC%A1%E6%95%B8/"/>
     
-    <category term="電池健康度" scheme="http://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6/"/>
+    <category term="電池健康度" scheme="https://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6/"/>
     
   </entry>
   
   <entry>
     <title>【SOTO ST-340 開箱】輕量、火力強勁的露營爐具推薦</title>
-    <link href="http://www.whatwillsay.tw/outdoor/2023/b289b3c7.html"/>
-    <id>http://www.whatwillsay.tw/outdoor/2023/b289b3c7.html</id>
+    <link href="https://www.whatwillsay.tw/outdoor/2023/b289b3c7.html"/>
+    <id>https://www.whatwillsay.tw/outdoor/2023/b289b3c7.html</id>
     <published>2023-10-19T03:00:45.000Z</published>
     <updated>2023-10-19T03:00:45.000Z</updated>
     
@@ -364,23 +364,23 @@
     
     
     
-    <category term="登山健行" scheme="http://www.whatwillsay.tw/categories/outdoor/"/>
+    <category term="登山健行" scheme="https://www.whatwillsay.tw/categories/outdoor/"/>
     
     
-    <category term="SOTO" scheme="http://www.whatwillsay.tw/tags/SOTO/"/>
+    <category term="SOTO" scheme="https://www.whatwillsay.tw/tags/SOTO/"/>
     
-    <category term="ST-340" scheme="http://www.whatwillsay.tw/tags/ST-340/"/>
+    <category term="ST-340" scheme="https://www.whatwillsay.tw/tags/ST-340/"/>
     
-    <category term="蜘蛛爐" scheme="http://www.whatwillsay.tw/tags/%E8%9C%98%E8%9B%9B%E7%88%90/"/>
+    <category term="蜘蛛爐" scheme="https://www.whatwillsay.tw/tags/%E8%9C%98%E8%9B%9B%E7%88%90/"/>
     
-    <category term="露營" scheme="http://www.whatwillsay.tw/tags/%E9%9C%B2%E7%87%9F/"/>
+    <category term="露營" scheme="https://www.whatwillsay.tw/tags/%E9%9C%B2%E7%87%9F/"/>
     
   </entry>
   
   <entry>
     <title>SciView 手機光譜儀開箱</title>
-    <link href="http://www.whatwillsay.tw/diylife/2023/c6ab4d33.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2023/c6ab4d33.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2023/c6ab4d33.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/c6ab4d33.html</id>
     <published>2023-09-24T08:41:42.000Z</published>
     <updated>2023-09-24T08:41:42.000Z</updated>
     
@@ -395,25 +395,25 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="手機光譜儀" scheme="http://www.whatwillsay.tw/tags/%E6%89%8B%E6%A9%9F%E5%85%89%E8%AD%9C%E5%84%80/"/>
+    <category term="手機光譜儀" scheme="https://www.whatwillsay.tw/tags/%E6%89%8B%E6%A9%9F%E5%85%89%E8%AD%9C%E5%84%80/"/>
     
-    <category term="科學Maker" scheme="http://www.whatwillsay.tw/tags/%E7%A7%91%E5%AD%B8Maker/"/>
+    <category term="科學Maker" scheme="https://www.whatwillsay.tw/tags/%E7%A7%91%E5%AD%B8Maker/"/>
     
-    <category term="SciView" scheme="http://www.whatwillsay.tw/tags/SciView/"/>
+    <category term="SciView" scheme="https://www.whatwillsay.tw/tags/SciView/"/>
     
-    <category term="植物燈" scheme="http://www.whatwillsay.tw/tags/%E6%A4%8D%E7%89%A9%E7%87%88/"/>
+    <category term="植物燈" scheme="https://www.whatwillsay.tw/tags/%E6%A4%8D%E7%89%A9%E7%87%88/"/>
     
-    <category term="spectrometer" scheme="http://www.whatwillsay.tw/tags/spectrometer/"/>
+    <category term="spectrometer" scheme="https://www.whatwillsay.tw/tags/spectrometer/"/>
     
   </entry>
   
   <entry>
     <title>藍色的魅力：利用藍曬法賦予照片生命</title>
-    <link href="http://www.whatwillsay.tw/travelphotography/2023/fb26fb53.html"/>
-    <id>http://www.whatwillsay.tw/travelphotography/2023/fb26fb53.html</id>
+    <link href="https://www.whatwillsay.tw/travelphotography/2023/fb26fb53.html"/>
+    <id>https://www.whatwillsay.tw/travelphotography/2023/fb26fb53.html</id>
     <published>2023-09-15T13:40:59.000Z</published>
     <updated>2023-09-15T13:40:59.000Z</updated>
     
@@ -428,21 +428,21 @@
     
     
     
-    <category term="旅遊|攝影" scheme="http://www.whatwillsay.tw/categories/travelphotography/"/>
+    <category term="旅遊|攝影" scheme="https://www.whatwillsay.tw/categories/travelphotography/"/>
     
     
-    <category term="底片" scheme="http://www.whatwillsay.tw/tags/%E5%BA%95%E7%89%87/"/>
+    <category term="底片" scheme="https://www.whatwillsay.tw/tags/%E5%BA%95%E7%89%87/"/>
     
-    <category term="藍曬法" scheme="http://www.whatwillsay.tw/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/"/>
+    <category term="藍曬法" scheme="https://www.whatwillsay.tw/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/"/>
     
-    <category term="藍曬法照片製作" scheme="http://www.whatwillsay.tw/tags/%E8%97%8D%E6%9B%AC%E6%B3%95%E7%85%A7%E7%89%87%E8%A3%BD%E4%BD%9C/"/>
+    <category term="藍曬法照片製作" scheme="https://www.whatwillsay.tw/tags/%E8%97%8D%E6%9B%AC%E6%B3%95%E7%85%A7%E7%89%87%E8%A3%BD%E4%BD%9C/"/>
     
   </entry>
   
   <entry>
     <title>行動顯微鏡開箱 科學Maker社團工具</title>
-    <link href="http://www.whatwillsay.tw/diylife/2023/46a435ae.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2023/46a435ae.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2023/46a435ae.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/46a435ae.html</id>
     <published>2023-09-12T15:08:51.000Z</published>
     <updated>2023-09-12T15:08:51.000Z</updated>
     
@@ -457,19 +457,19 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="科學Maker" scheme="http://www.whatwillsay.tw/tags/%E7%A7%91%E5%AD%B8Maker/"/>
+    <category term="科學Maker" scheme="https://www.whatwillsay.tw/tags/%E7%A7%91%E5%AD%B8Maker/"/>
     
-    <category term="行動顯微鏡" scheme="http://www.whatwillsay.tw/tags/%E8%A1%8C%E5%8B%95%E9%A1%AF%E5%BE%AE%E9%8F%A1/"/>
+    <category term="行動顯微鏡" scheme="https://www.whatwillsay.tw/tags/%E8%A1%8C%E5%8B%95%E9%A1%AF%E5%BE%AE%E9%8F%A1/"/>
     
   </entry>
   
   <entry>
     <title>海上龍珠-基隆嶼登島</title>
-    <link href="http://www.whatwillsay.tw/travelphotography/2023/9bcb80f8.html"/>
-    <id>http://www.whatwillsay.tw/travelphotography/2023/9bcb80f8.html</id>
+    <link href="https://www.whatwillsay.tw/travelphotography/2023/9bcb80f8.html"/>
+    <id>https://www.whatwillsay.tw/travelphotography/2023/9bcb80f8.html</id>
     <published>2023-07-16T06:42:58.000Z</published>
     <updated>2023-07-16T06:42:58.000Z</updated>
     
@@ -484,21 +484,21 @@
     
     
     
-    <category term="旅遊|攝影" scheme="http://www.whatwillsay.tw/categories/travelphotography/"/>
+    <category term="旅遊|攝影" scheme="https://www.whatwillsay.tw/categories/travelphotography/"/>
     
     
-    <category term="基隆嶼" scheme="http://www.whatwillsay.tw/tags/%E5%9F%BA%E9%9A%86%E5%B6%BC/"/>
+    <category term="基隆嶼" scheme="https://www.whatwillsay.tw/tags/%E5%9F%BA%E9%9A%86%E5%B6%BC/"/>
     
-    <category term="Klook" scheme="http://www.whatwillsay.tw/tags/Klook/"/>
+    <category term="Klook" scheme="https://www.whatwillsay.tw/tags/Klook/"/>
     
-    <category term="晉龍號" scheme="http://www.whatwillsay.tw/tags/%E6%99%89%E9%BE%8D%E8%99%9F/"/>
+    <category term="晉龍號" scheme="https://www.whatwillsay.tw/tags/%E6%99%89%E9%BE%8D%E8%99%9F/"/>
     
   </entry>
   
   <entry>
     <title>I&#39;m watching you：TOYOTA ZACE SURF 前後行車紀錄器安裝</title>
-    <link href="http://www.whatwillsay.tw/diylife/2023/9b07003e.html"/>
-    <id>http://www.whatwillsay.tw/diylife/2023/9b07003e.html</id>
+    <link href="https://www.whatwillsay.tw/diylife/2023/9b07003e.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/9b07003e.html</id>
     <published>2023-07-07T15:13:20.000Z</published>
     <updated>2023-07-07T15:13:20.000Z</updated>
     
@@ -513,21 +513,21 @@
     
     
     
-    <category term="DIY生活" scheme="http://www.whatwillsay.tw/categories/diylife/"/>
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
     
     
-    <category term="70mai" scheme="http://www.whatwillsay.tw/tags/70mai/"/>
+    <category term="70mai" scheme="https://www.whatwillsay.tw/tags/70mai/"/>
     
-    <category term="ZACE" scheme="http://www.whatwillsay.tw/tags/ZACE/"/>
+    <category term="ZACE" scheme="https://www.whatwillsay.tw/tags/ZACE/"/>
     
-    <category term="行車紀錄器" scheme="http://www.whatwillsay.tw/tags/%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%99%A8/"/>
+    <category term="行車紀錄器" scheme="https://www.whatwillsay.tw/tags/%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>Minolta Hi-matic E 我的第一台RF</title>
-    <link href="http://www.whatwillsay.tw/travelphotography/2023/7fdd1555.html"/>
-    <id>http://www.whatwillsay.tw/travelphotography/2023/7fdd1555.html</id>
+    <link href="https://www.whatwillsay.tw/travelphotography/2023/7fdd1555.html"/>
+    <id>https://www.whatwillsay.tw/travelphotography/2023/7fdd1555.html</id>
     <published>2023-06-30T13:32:39.000Z</published>
     <updated>2023-06-30T13:32:39.000Z</updated>
     
@@ -542,23 +542,23 @@
     
     
     
-    <category term="旅遊|攝影" scheme="http://www.whatwillsay.tw/categories/travelphotography/"/>
+    <category term="旅遊|攝影" scheme="https://www.whatwillsay.tw/categories/travelphotography/"/>
     
     
-    <category term="Minolta" scheme="http://www.whatwillsay.tw/tags/Minolta/"/>
+    <category term="Minolta" scheme="https://www.whatwillsay.tw/tags/Minolta/"/>
     
-    <category term="底片" scheme="http://www.whatwillsay.tw/tags/%E5%BA%95%E7%89%87/"/>
+    <category term="底片" scheme="https://www.whatwillsay.tw/tags/%E5%BA%95%E7%89%87/"/>
     
-    <category term="RF" scheme="http://www.whatwillsay.tw/tags/RF/"/>
+    <category term="RF" scheme="https://www.whatwillsay.tw/tags/RF/"/>
     
-    <category term="HimaticE" scheme="http://www.whatwillsay.tw/tags/HimaticE/"/>
+    <category term="HimaticE" scheme="https://www.whatwillsay.tw/tags/HimaticE/"/>
     
   </entry>
   
   <entry>
     <title>Garmont karakum 2.0 GTX登山鞋開箱</title>
-    <link href="http://www.whatwillsay.tw/outdoor/2023/37b585af.html"/>
-    <id>http://www.whatwillsay.tw/outdoor/2023/37b585af.html</id>
+    <link href="https://www.whatwillsay.tw/outdoor/2023/37b585af.html"/>
+    <id>https://www.whatwillsay.tw/outdoor/2023/37b585af.html</id>
     <published>2023-06-16T13:44:12.000Z</published>
     <updated>2023-06-16T13:44:12.000Z</updated>
     
@@ -573,12 +573,12 @@
     
     
     
-    <category term="登山健行" scheme="http://www.whatwillsay.tw/categories/outdoor/"/>
+    <category term="登山健行" scheme="https://www.whatwillsay.tw/categories/outdoor/"/>
     
     
-    <category term="Garmont" scheme="http://www.whatwillsay.tw/tags/Garmont/"/>
+    <category term="Garmont" scheme="https://www.whatwillsay.tw/tags/Garmont/"/>
     
-    <category term="臺北大縱走" scheme="http://www.whatwillsay.tw/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/"/>
+    <category term="臺北大縱走" scheme="https://www.whatwillsay.tw/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/"/>
     
   </entry>
   
