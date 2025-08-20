@@ -209,27 +209,6 @@
 
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/70mai/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.whatwillsay.tw/tags/ZACE/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.whatwillsay.tw/tags/%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%99%A8/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.whatwillsay.tw/tags/1Zpresso/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -258,20 +237,6 @@
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/Garmont/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.whatwillsay.tw/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.whatwillsay.tw/tags/MY150/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -280,34 +245,6 @@
   
   <url>
     <loc>https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E5%96%87%E5%8F%AD/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E9%9B%BB%E7%93%B6/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.whatwillsay.tw/tags/%E9%9B%A2%E5%90%88%E5%99%A8%E7%B7%9A/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.whatwillsay.tw/tags/%E7%A9%BA%E6%BF%BE/</loc>
-    <lastmod>2025-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.whatwillsay.tw/tags/DIY/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -342,6 +279,48 @@
   </url>
   
   <url>
+    <loc>https://www.whatwillsay.tw/tags/70mai/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/ZACE/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%99%A8/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/Garmont/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E9%9B%BB%E7%93%B6/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.whatwillsay.tw/tags/RO%E6%BF%BE%E5%BF%83%E6%9B%B4%E6%8F%9BDIY/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -349,21 +328,21 @@
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/%E5%90%B8%E9%A0%82%E7%87%88/</loc>
+    <loc>https://www.whatwillsay.tw/tags/%E9%9B%A2%E5%90%88%E5%99%A8%E7%B7%9A/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/Toshiba/</loc>
+    <loc>https://www.whatwillsay.tw/tags/%E7%A9%BA%E6%BF%BE/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/%E5%92%8C%E6%97%A5/</loc>
+    <loc>https://www.whatwillsay.tw/tags/DIY/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -419,21 +398,21 @@
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/iPhone/</loc>
+    <loc>https://www.whatwillsay.tw/tags/%E5%90%B8%E9%A0%82%E7%87%88/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%BE%AA%E7%92%B0%E6%AC%A1%E6%95%B8/</loc>
+    <loc>https://www.whatwillsay.tw/tags/Toshiba/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6/</loc>
+    <loc>https://www.whatwillsay.tw/tags/%E5%92%8C%E6%97%A5/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -475,7 +454,21 @@
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3%E9%AB%94%E8%84%82%E8%A8%88S400/</loc>
+    <loc>https://www.whatwillsay.tw/tags/iPhone/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%BE%AA%E7%92%B0%E6%AC%A1%E6%95%B8/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -496,7 +489,7 @@
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/sharp/</loc>
+    <loc>https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3%E9%AB%94%E8%84%82%E8%A8%88S400/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -538,7 +531,7 @@
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/%E8%A1%8C%E5%8B%95%E9%A1%AF%E5%BE%AE%E9%8F%A1/</loc>
+    <loc>https://www.whatwillsay.tw/tags/sharp/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -572,6 +565,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/%E8%A1%8C%E5%8B%95%E9%A1%AF%E5%BE%AE%E9%8F%A1/</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -582,14 +582,14 @@
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/categories/outdoor/</loc>
+    <loc>https://www.whatwillsay.tw/categories/travelphotography/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/categories/travelphotography/</loc>
+    <loc>https://www.whatwillsay.tw/categories/outdoor/</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
