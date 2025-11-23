@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.whatwillsay.tw/uncategorized/2025/2511483928.html</loc>
+    <loc>https://www.whatwillsay.tw/unboxing/2025/2511483928.html</loc>
     
     <lastmod>2025-11-22</lastmod>
     
@@ -227,20 +227,6 @@
 
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/Garmont/</loc>
-    <lastmod>2025-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.whatwillsay.tw/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
-    <lastmod>2025-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.whatwillsay.tw/tags/1Zpresso/</loc>
     <lastmod>2025-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -269,14 +255,14 @@
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/MY150/</loc>
+    <loc>https://www.whatwillsay.tw/tags/Garmont/</loc>
     <lastmod>2025-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E5%96%87%E5%8F%AD/</loc>
+    <loc>https://www.whatwillsay.tw/tags/%E8%87%BA%E5%8C%97%E5%A4%A7%E7%B8%B1%E8%B5%B0/</loc>
     <lastmod>2025-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -298,6 +284,20 @@
   
   <url>
     <loc>https://www.whatwillsay.tw/tags/%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%99%A8/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/MY150/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E5%96%87%E5%8F%AD/</loc>
     <lastmod>2025-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -542,6 +542,13 @@
   </url>
   
   <url>
+    <loc>https://www.whatwillsay.tw/tags/sharp/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.whatwillsay.tw/tags/%E6%89%8B%E6%A9%9F%E5%85%89%E8%AD%9C%E5%84%80/</loc>
     <lastmod>2025-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -577,20 +584,6 @@
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/tags/sharp/</loc>
-    <lastmod>2025-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.whatwillsay.tw/tags/%E8%A1%8C%E5%8B%95%E9%A1%AF%E5%BE%AE%E9%8F%A1/</loc>
-    <lastmod>2025-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.whatwillsay.tw/tags/%E8%87%AA%E9%87%80%E6%A2%85%E9%85%92/</loc>
     <lastmod>2025-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -618,17 +611,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.whatwillsay.tw/tags/%E8%A1%8C%E5%8B%95%E9%A1%AF%E5%BE%AE%E9%8F%A1/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://www.whatwillsay.tw/categories/outdoor/</loc>
+    <loc>https://www.whatwillsay.tw/categories/diylife/</loc>
     <lastmod>2025-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.whatwillsay.tw/categories/diylife/</loc>
+    <loc>https://www.whatwillsay.tw/categories/outdoor/</loc>
     <lastmod>2025-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -643,6 +643,13 @@
   
   <url>
     <loc>https://www.whatwillsay.tw/categories/unboxing/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.whatwillsay.tw/categories/travelphotography/</loc>
     <lastmod>2025-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
