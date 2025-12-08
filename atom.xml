@@ -6,7 +6,7 @@
   <link href="https://www.whatwillsay.tw/atom.xml" rel="self"/>
   
   <link href="https://www.whatwillsay.tw/"/>
-  <updated>2025-11-22T17:29:48.000Z</updated>
+  <updated>2025-11-28T02:50:32.000Z</updated>
   <id>https://www.whatwillsay.tw/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MY150 小燈更換紀錄：花小錢自己動手換 T10 LED</title>
+    <link href="https://www.whatwillsay.tw/diylife/2025/2955612346.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2025/2955612346.html</id>
+    <published>2025-11-28T02:50:32.000Z</published>
+    <updated>2025-11-28T02:50:32.000Z</updated>
+    
+    
+    <summary type="html">騎 MY150 發現小燈（定位燈）瞎了？別急著跑車行！阿緯碎碎念帶你花小錢自己動手 DIY。本篇紀錄如何將 MY150 的小燈更換為明亮的 T10 LED 燈泡。超簡單詳細步驟拆解，只需一支十字起子，十分鐘就能讓愛車恢復精神，新手也能輕鬆完成的維修保養紀錄。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="MY150" scheme="https://www.whatwillsay.tw/tags/MY150/"/>
+    
+    <category term="機車DIY" scheme="https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8ADIY/"/>
+    
+    <category term="維修紀錄" scheme="https://www.whatwillsay.tw/tags/%E7%B6%AD%E4%BF%AE%E7%B4%80%E9%8C%84/"/>
+    
+  </entry>
   
   <entry>
     <title>小米手持掛燙機開箱】實測評價：懶人救星還是智商稅？優缺點完整分析</title>
@@ -118,7 +141,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -149,7 +172,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1&gt;前言&lt;/h1&gt;
+&lt;p&gt;一直以來都是小米行動電源的愛用者，從初期的18650類型的到後來鋰電池式的10000及20000mAh，也算是用過不少個了。自從用iPhone之後就想要試試看magsafe的行動電源，除了可以無線充電之外，通常這類的行動電源也可以當作支架使用,只是通</summary>
         
       
     
@@ -178,7 +202,8 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;MY150的喇叭已經壞了有一陣子了，雖然心裡想說有問題閃閃大燈就好，沒有喇叭比較不會在路上發起戰鬥邀請(?)</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+&lt;p&gt;MY150的喇叭已經壞了有一陣子了，雖然心裡想說有問題閃閃大燈就好，沒有喇叭比較不會在路上發起戰鬥邀請(?)</summary>
         
       
     
@@ -205,7 +230,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -234,7 +259,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -259,7 +284,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -286,7 +311,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -313,7 +338,8 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近因為辦公室在整修，因此有了一些時間回老家居家上班。房間用的還是20年前的T8</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+&lt;p&gt;最近因為辦公室在整修，因此有了一些時間回老家居家上班。房間用的還是20年前的T8</summary>
         
       
     
@@ -342,7 +368,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -373,7 +399,8 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;最近總覺得iPhone 13 pro的電力越來越不給力了，然後電池健康度也一直卡在84%，真不知道是因為更新了iOS</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+&lt;p&gt;最近總覺得iPhone 13 pro的電力越來越不給力了，然後電池健康度也一直卡在84%，真不知道是因為更新了iOS</summary>
         
       
     
@@ -402,7 +429,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -433,7 +460,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -466,7 +493,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -495,7 +522,8 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;加入台大江老師所建立的FB社團</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;
+&lt;p&gt;加入台大江老師所建立的FB社團</summary>
         
       
     
@@ -522,7 +550,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -536,35 +564,6 @@
     <category term="Klook" scheme="https://www.whatwillsay.tw/tags/Klook/"/>
     
     <category term="晉龍號" scheme="https://www.whatwillsay.tw/tags/%E6%99%89%E9%BE%8D%E8%99%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>I&#39;m watching you：TOYOTA ZACE SURF 前後行車紀錄器安裝</title>
-    <link href="https://www.whatwillsay.tw/diylife/2023/9b07003e.html"/>
-    <id>https://www.whatwillsay.tw/diylife/2023/9b07003e.html</id>
-    <published>2023-07-07T15:13:20.000Z</published>
-    <updated>2023-07-07T15:13:20.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;家裡的老車TOYOTA ZACE</summary>
-        
-      
-    
-    
-    
-    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
-    
-    
-    <category term="70mai" scheme="https://www.whatwillsay.tw/tags/70mai/"/>
-    
-    <category term="ZACE" scheme="https://www.whatwillsay.tw/tags/ZACE/"/>
-    
-    <category term="行車紀錄器" scheme="https://www.whatwillsay.tw/tags/%E8%A1%8C%E8%BB%8A%E7%B4%80%E9%8C%84%E5%99%A8/"/>
     
   </entry>
   
