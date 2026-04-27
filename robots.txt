@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.whatwillsay.tw/sitemap.xml
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /archives/
+Disallow: /page/
+
+Sitemap: https://whatwillsay.tw/sitemap.xml
