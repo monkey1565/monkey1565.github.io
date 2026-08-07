@@ -6,7 +6,7 @@
   <link href="https://www.whatwillsay.tw/atom.xml" rel="self"/>
   
   <link href="https://www.whatwillsay.tw/"/>
-  <updated>2026-04-09T02:09:42.000Z</updated>
+  <updated>2026-08-05T02:41:04.000Z</updated>
   <id>https://www.whatwillsay.tw/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機</title>
+    <link href="https://www.whatwillsay.tw/diylife/2026/1209017257.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2026/1209017257.html</id>
+    <published>2026-08-05T02:06:33.000Z</published>
+    <updated>2026-08-05T02:41:04.000Z</updated>
+    
+    
+    <summary type="html">CyberPower CP650HGa 遇到短短幾秒跳電時完全沒有接手，導致 Synology DS923+ 異常關機。記錄 UPS 電池規格確認、拆裝順序、充電、斷電測試及 DSM 安全模式設定。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="CyberPower CP650HGa" scheme="https://www.whatwillsay.tw/tags/CyberPower-CP650HGa/"/>
+    
+    <category term="UPS電池更換" scheme="https://www.whatwillsay.tw/tags/UPS%E9%9B%BB%E6%B1%A0%E6%9B%B4%E6%8F%9B/"/>
+    
+    <category term="Synology DS923+" scheme="https://www.whatwillsay.tw/tags/Synology-DS923/"/>
+    
+    <category term="NAS" scheme="https://www.whatwillsay.tw/tags/NAS/"/>
+    
+    <category term="DIY維修" scheme="https://www.whatwillsay.tw/tags/DIY%E7%B6%AD%E4%BF%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>【台北機車露營】受夠了工作負能量？內湖碧山露營場，單人機車露營輕鬆上手</title>
@@ -464,27 +491,6 @@
     <category term="藍曬法" scheme="https://www.whatwillsay.tw/tags/%E8%97%8D%E6%9B%AC%E6%B3%95/"/>
     
     <category term="藍曬法照片製作" scheme="https://www.whatwillsay.tw/tags/%E8%97%8D%E6%9B%AC%E6%B3%95%E7%85%A7%E7%89%87%E8%A3%BD%E4%BD%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>行動顯微鏡開箱 科學Maker社團工具</title>
-    <link href="https://www.whatwillsay.tw/diylife/2023/46a435ae.html"/>
-    <id>https://www.whatwillsay.tw/diylife/2023/46a435ae.html</id>
-    <published>2023-09-12T15:08:51.000Z</published>
-    <updated>2023-09-12T15:08:51.000Z</updated>
-    
-    
-    <summary type="html">開箱手機行動顯微鏡與表面照明模組，分享組裝操作、觀察效果與實拍體驗，適合科學 Maker 與教學應用入門。</summary>
-    
-    
-    
-    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
-    
-    
-    <category term="科學Maker" scheme="https://www.whatwillsay.tw/tags/%E7%A7%91%E5%AD%B8Maker/"/>
-    
-    <category term="行動顯微鏡" scheme="https://www.whatwillsay.tw/tags/%E8%A1%8C%E5%8B%95%E9%A1%AF%E5%BE%AE%E9%8F%A1/"/>
     
   </entry>
   

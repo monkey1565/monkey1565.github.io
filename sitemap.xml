@@ -4,22 +4,12 @@
 
     <sitemap>
         <loc>https://www.whatwillsay.tw/post-sitemap.xml</loc>
-        <lastmod>2026-04-09T02:09:42.000Z</lastmod>
+        <lastmod>2026-08-05T02:41:04.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://www.whatwillsay.tw/page-sitemap.xml</loc>
         <lastmod>2025-12-20T03:39:57.000Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>https://www.whatwillsay.tw/category-sitemap.xml</loc>
-        <lastmod>2026-04-09T02:09:42.000Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>https://www.whatwillsay.tw/tag-sitemap.xml</loc>
-        <lastmod>2026-04-09T02:09:42.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
