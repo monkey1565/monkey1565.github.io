@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阿緯碎碎唸</title>
+  <icon>https://www.whatwillsay.tw/icon.png</icon>
+  
+  <link href="https://www.whatwillsay.tw/atom.xml" rel="self"/>
+  
+  <link href="https://www.whatwillsay.tw/"/>
+  <updated>2026-08-16T09:07:18.000Z</updated>
+  <id>https://www.whatwillsay.tw/</id>
+  
+  <author>
+    <name>Will 阿緯</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？</title>
+    <link href="https://www.whatwillsay.tw/unboxing/2026/3619478264.html"/>
+    <id>https://www.whatwillsay.tw/unboxing/2026/3619478264.html</id>
+    <published>2026-08-16T09:07:18.000Z</published>
+    <updated>2026-08-16T09:07:18.000Z</updated>
+    
+    
+    <summary type="html">SONY WH-1000XM6 午夜藍開箱，從使用多年的 WH-CH700N 升級，實際比較降噪、音質、通話、佩戴、收納與續航差異，分析是否值得換機。</summary>
+    
+    
+    
+    <category term="其他開箱" scheme="https://www.whatwillsay.tw/categories/unboxing/"/>
+    
+    
+    <category term="SONY" scheme="https://www.whatwillsay.tw/tags/SONY/"/>
+    
+    <category term="WH-1000XM6" scheme="https://www.whatwillsay.tw/tags/WH-1000XM6/"/>
+    
+    <category term="WH-CH700N" scheme="https://www.whatwillsay.tw/tags/WH-CH700N/"/>
+    
+    <category term="降噪耳機" scheme="https://www.whatwillsay.tw/tags/%E9%99%8D%E5%99%AA%E8%80%B3%E6%A9%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機</title>
+    <link href="https://www.whatwillsay.tw/diylife/2026/1209017257.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2026/1209017257.html</id>
+    <published>2026-08-05T02:06:33.000Z</published>
+    <updated>2026-08-05T02:41:04.000Z</updated>
+    
+    
+    <summary type="html">CyberPower CP650HGa 遇到短短幾秒跳電時完全沒有接手，導致 Synology DS923+ 異常關機。記錄 UPS 電池規格確認、拆裝順序、充電、斷電測試及 DSM 安全模式設定。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="CyberPower CP650HGa" scheme="https://www.whatwillsay.tw/tags/CyberPower-CP650HGa/"/>
+    
+    <category term="UPS電池更換" scheme="https://www.whatwillsay.tw/tags/UPS%E9%9B%BB%E6%B1%A0%E6%9B%B4%E6%8F%9B/"/>
+    
+    <category term="Synology DS923+" scheme="https://www.whatwillsay.tw/tags/Synology-DS923/"/>
+    
+    <category term="NAS" scheme="https://www.whatwillsay.tw/tags/NAS/"/>
+    
+    <category term="DIY維修" scheme="https://www.whatwillsay.tw/tags/DIY%E7%B6%AD%E4%BF%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【台北機車露營】受夠了工作負能量？內湖碧山露營場，單人機車露營輕鬆上手</title>
+    <link href="https://www.whatwillsay.tw/outdoor/2026/2919111698.html"/>
+    <id>https://www.whatwillsay.tw/outdoor/2026/2919111698.html</id>
+    <published>2026-04-09T02:09:42.000Z</published>
+    <updated>2026-04-09T02:09:42.000Z</updated>
+    
+    
+    <summary type="html">一台 MY150 輕檔車、一個登山背包、一頂帳篷，就能逃離高壓工作！完整記錄台北內湖碧山露營場的單人機車露營體驗，含裝備清單、營區設施懶人包，以及煎牛排配威士忌看百萬夜景的社畜逃跑指南。</summary>
+    
+    
+    
+    <category term="登山健行" scheme="https://www.whatwillsay.tw/categories/outdoor/"/>
+    
+    
+    <category term="1Zpresso" scheme="https://www.whatwillsay.tw/tags/1Zpresso/"/>
+    
+    <category term="手搖磨豆機" scheme="https://www.whatwillsay.tw/tags/%E6%89%8B%E6%90%96%E7%A3%A8%E8%B1%86%E6%A9%9F/"/>
+    
+    <category term="MY150" scheme="https://www.whatwillsay.tw/tags/MY150/"/>
+    
+    <category term="SOTO" scheme="https://www.whatwillsay.tw/tags/SOTO/"/>
+    
+    <category term="ST-340" scheme="https://www.whatwillsay.tw/tags/ST-340/"/>
+    
+    <category term="蜘蛛爐" scheme="https://www.whatwillsay.tw/tags/%E8%9C%98%E8%9B%9B%E7%88%90/"/>
+    
+    <category term="露營" scheme="https://www.whatwillsay.tw/tags/%E9%9C%B2%E7%87%9F/"/>
+    
+    <category term="機車露營" scheme="https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E9%9C%B2%E7%87%9F/"/>
+    
+    <category term="碧山露營場" scheme="https://www.whatwillsay.tw/tags/%E7%A2%A7%E5%B1%B1%E9%9C%B2%E7%87%9F%E5%A0%B4/"/>
+    
+    <category term="單人露營" scheme="https://www.whatwillsay.tw/tags/%E5%96%AE%E4%BA%BA%E9%9C%B2%E7%87%9F/"/>
+    
+    <category term="1Zpresso-Q-Air" scheme="https://www.whatwillsay.tw/tags/1Zpresso-Q-Air/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MY150 小燈更換紀錄：花小錢自己動手換 T10 LED</title>
+    <link href="https://www.whatwillsay.tw/diylife/2025/2955612346.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2025/2955612346.html</id>
+    <published>2025-11-28T02:50:32.000Z</published>
+    <updated>2025-11-28T02:50:32.000Z</updated>
+    
+    
+    <summary type="html">記錄 MY150 T10 定位燈（小燈）DIY 更換流程，整理拆裝步驟、規格選擇與注意事項，花小錢就能恢復夜間辨識度。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="MY150" scheme="https://www.whatwillsay.tw/tags/MY150/"/>
+    
+    <category term="機車DIY" scheme="https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8ADIY/"/>
+    
+    <category term="維修紀錄" scheme="https://www.whatwillsay.tw/tags/%E7%B6%AD%E4%BF%AE%E7%B4%80%E9%8C%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米手持掛燙機開箱】實測評價：懶人救星還是智商稅？優缺點完整分析</title>
+    <link href="https://www.whatwillsay.tw/unboxing/2025/2511483928.html"/>
+    <id>https://www.whatwillsay.tw/unboxing/2025/2511483928.html</id>
+    <published>2025-11-22T17:29:48.000Z</published>
+    <updated>2025-11-22T17:29:48.000Z</updated>
+    
+    
+    <summary type="html">實測小米手持掛燙機的除皺效率、預熱速度與使用手感，整理優缺點與適用族群，評估是否值得作為日常整燙工具。</summary>
+    
+    
+    
+    <category term="其他開箱" scheme="https://www.whatwillsay.tw/categories/unboxing/"/>
+    
+    
+    <category term="小米手持掛燙機" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%8C%81%E6%8E%9B%E7%87%99%E6%A9%9F/"/>
+    
+    <category term="小米掛燙機評價" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3%E6%8E%9B%E7%87%99%E6%A9%9F%E8%A9%95%E5%83%B9/"/>
+    
+    <category term="掛燙機推薦" scheme="https://www.whatwillsay.tw/tags/%E6%8E%9B%E7%87%99%E6%A9%9F%E6%8E%A8%E8%96%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米電視盒子S (3代) 開箱評測：客廳影音娛樂中樞的CP值新選擇</title>
+    <link href="https://www.whatwillsay.tw/unboxing/2025/2962299880.html"/>
+    <id>https://www.whatwillsay.tw/unboxing/2025/2962299880.html</id>
+    <published>2025-10-24T15:52:20.000Z</published>
+    <updated>2025-10-24T15:52:20.000Z</updated>
+    
+    
+    <summary type="html">開箱小米電視盒子 S 第三代，整理安裝設定、介面操作與串流播放體驗，評估作為客廳影音中樞的 CP 值表現。</summary>
+    
+    
+    
+    <category term="其他開箱" scheme="https://www.whatwillsay.tw/categories/unboxing/"/>
+    
+    
+    <category term="小米" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+    <category term="小米電視盒子S3" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3%E9%9B%BB%E8%A6%96%E7%9B%92%E5%AD%90S3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自己的梅酒自己釀：超簡單自釀梅酒攻略</title>
+    <link href="https://www.whatwillsay.tw/diylife/2025/3364048234.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2025/3364048234.html</id>
+    <published>2025-04-09T16:23:55.000Z</published>
+    <updated>2025-04-09T16:23:55.000Z</updated>
+    
+    
+    <summary type="html">跟著我的自釀梅酒筆記，一起用超簡單的方法,釀出連家人朋友都稱讚的好味道！內含我的獨家比例和詳細步驟。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="自釀梅酒" scheme="https://www.whatwillsay.tw/tags/%E8%87%AA%E9%87%80%E6%A2%85%E9%85%92/"/>
+    
+    <category term="梅酒" scheme="https://www.whatwillsay.tw/tags/%E6%A2%85%E9%85%92/"/>
+    
+    <category term="梅酒比例" scheme="https://www.whatwillsay.tw/tags/%E6%A2%85%E9%85%92%E6%AF%94%E4%BE%8B/"/>
+    
+    <category term="自釀梅酒基酒選擇" scheme="https://www.whatwillsay.tw/tags/%E8%87%AA%E9%87%80%E6%A2%85%E9%85%92%E5%9F%BA%E9%85%92%E9%81%B8%E6%93%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SHARP 55W 明悅吸頂燈開箱與安裝實測：安裝超簡單，亮度、色溫隨心調！</title>
+    <link href="https://www.whatwillsay.tw/diylife/2025/4136004490.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2025/4136004490.html</id>
+    <published>2025-03-14T16:37:42.000Z</published>
+    <updated>2025-03-14T16:37:42.000Z</updated>
+    
+    
+    <summary type="html">開箱 SHARP 55W 明悅吸頂燈，完整記錄 DIY 安裝流程與亮度、色溫表現，整理實際使用優缺點與選購建議。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="吸頂燈" scheme="https://www.whatwillsay.tw/tags/%E5%90%B8%E9%A0%82%E7%87%88/"/>
+    
+    <category term="sharp" scheme="https://www.whatwillsay.tw/tags/sharp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MY150 離合器線與空濾 DIY 更換全攻略：省錢又安心！</title>
+    <link href="https://www.whatwillsay.tw/diylife/2025/1108025061.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2025/1108025061.html</id>
+    <published>2025-02-20T15:49:20.000Z</published>
+    <updated>2025-02-20T15:49:20.000Z</updated>
+    
+    
+    <summary type="html">完整記錄 MY150 離合器線與空濾更換流程，整理零件替代選項、施工步驟與手感改善重點，省下維修費也更安心。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="MY150" scheme="https://www.whatwillsay.tw/tags/MY150/"/>
+    
+    <category term="離合器線" scheme="https://www.whatwillsay.tw/tags/%E9%9B%A2%E5%90%88%E5%99%A8%E7%B7%9A/"/>
+    
+    <category term="空濾" scheme="https://www.whatwillsay.tw/tags/%E7%A9%BA%E6%BF%BE/"/>
+    
+    <category term="DIY" scheme="https://www.whatwillsay.tw/tags/DIY/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米無線行動電源6000值得買嗎？開箱告訴你答案！</title>
+    <link href="https://www.whatwillsay.tw/unboxing/2025/4073576291.html"/>
+    <id>https://www.whatwillsay.tw/unboxing/2025/4073576291.html</id>
+    <published>2025-01-19T08:48:59.000Z</published>
+    <updated>2025-01-19T08:48:59.000Z</updated>
+    
+    
+    <summary type="html">開箱小米無線行動電源 6000，實測 MagSafe 磁吸穩定度、充電效率與外出便利性，整理優缺點供 iPhone 使用者參考。</summary>
+    
+    
+    
+    <category term="其他開箱" scheme="https://www.whatwillsay.tw/categories/unboxing/"/>
+    
+    
+    <category term="小米" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+    <category term="無線行動電源" scheme="https://www.whatwillsay.tw/tags/%E7%84%A1%E7%B7%9A%E8%A1%8C%E5%8B%95%E9%9B%BB%E6%BA%90/"/>
+    
+    <category term="Qi2.0" scheme="https://www.whatwillsay.tw/tags/Qi2-0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MY150 喇叭維修DIY，喇叭只是提醒你不是發出戰鬥邀請</title>
+    <link href="https://www.whatwillsay.tw/diylife/2024/992337511.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2024/992337511.html</id>
+    <published>2024-06-02T07:01:20.000Z</published>
+    <updated>2024-06-02T07:01:20.000Z</updated>
+    
+    
+    <summary type="html">MY150 喇叭故障後的 DIY 維修紀錄，從拆裝、線路檢查到更換測試完整整理，提升日常通勤與路口安全性。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="MY150" scheme="https://www.whatwillsay.tw/tags/MY150/"/>
+    
+    <category term="機車喇叭" scheme="https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E5%96%87%E5%8F%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redmi Buds 5 開箱體驗：是否能成為你的日常搭檔？</title>
+    <link href="https://www.whatwillsay.tw/unboxing/2024/3146747173.html"/>
+    <id>https://www.whatwillsay.tw/unboxing/2024/3146747173.html</id>
+    <published>2024-05-25T08:27:45.000Z</published>
+    <updated>2024-05-25T08:27:45.000Z</updated>
+    
+    
+    <summary type="html">開箱 Redmi Buds 5，實測配戴舒適度、通勤聆聽與通話表現，並整理降噪、延遲與續航重點評估是否值得入手。</summary>
+    
+    
+    
+    <category term="其他開箱" scheme="https://www.whatwillsay.tw/categories/unboxing/"/>
+    
+    
+    <category term="小米" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+    <category term="Redmi Buds 5" scheme="https://www.whatwillsay.tw/tags/Redmi-Buds-5/"/>
+    
+    <category term="藍牙耳機" scheme="https://www.whatwillsay.tw/tags/%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RO逆滲透濾心更換不求人，輕鬆換安心喝</title>
+    <link href="https://www.whatwillsay.tw/diylife/2024/2375653926.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2024/2375653926.html</id>
+    <published>2024-05-03T15:47:00.000Z</published>
+    <updated>2024-05-03T15:47:00.000Z</updated>
+    
+    
+    <summary type="html">分享 RO 逆滲透濾心 DIY 更換實作，從濾芯辨識、拆換流程到通水檢查一次整理，讓日常飲水更安心也更省維護成本。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="RO濾心更換DIY" scheme="https://www.whatwillsay.tw/tags/RO%E6%BF%BE%E5%BF%83%E6%9B%B4%E6%8F%9BDIY/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米體脂機S400開箱 同場加映Inbody 120比對</title>
+    <link href="https://www.whatwillsay.tw/unboxing/2024/1356633398.html"/>
+    <id>https://www.whatwillsay.tw/unboxing/2024/1356633398.html</id>
+    <published>2024-04-10T04:36:45.000Z</published>
+    <updated>2024-04-10T04:36:45.000Z</updated>
+    
+    
+    <summary type="html">開箱小米體脂機 S400，並與 InBody 120 實測比對，整理量測差異、數據解讀與日常追蹤建議。</summary>
+    
+    
+    
+    <category term="其他開箱" scheme="https://www.whatwillsay.tw/categories/unboxing/"/>
+    
+    
+    <category term="小米" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+    <category term="小米體脂計S400" scheme="https://www.whatwillsay.tw/tags/%E5%B0%8F%E7%B1%B3%E9%AB%94%E8%84%82%E8%A8%88S400/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MY150機車電瓶DIY教學，零基礎也能學會</title>
+    <link href="https://www.whatwillsay.tw/diylife/2023/2539990738.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/2539990738.html</id>
+    <published>2023-12-02T14:46:13.000Z</published>
+    <updated>2023-12-02T14:46:13.000Z</updated>
+    
+    
+    <summary type="html">以零基礎角度整理 MY150 電瓶更換教學，包含判斷沒電症狀、拆裝順序與發動檢查，快速完成機車電瓶 DIY。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="MY150" scheme="https://www.whatwillsay.tw/tags/MY150/"/>
+    
+    <category term="機車電瓶" scheme="https://www.whatwillsay.tw/tags/%E6%A9%9F%E8%BB%8A%E9%9B%BB%E7%93%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【TOSHIBA和日吸頂燈開箱安裝】三步驟DIY輕鬆搞定</title>
+    <link href="https://www.whatwillsay.tw/diylife/2023/267672838.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/267672838.html</id>
+    <published>2023-11-10T08:00:40.000Z</published>
+    <updated>2023-11-10T08:00:40.000Z</updated>
+    
+    
+    <summary type="html">記錄 TOSHIBA 和日吸頂燈三步驟 DIY 安裝流程，實測亮度、色溫與遙控操作，提供舊燈升級的選購與施工參考。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="吸頂燈" scheme="https://www.whatwillsay.tw/tags/%E5%90%B8%E9%A0%82%E7%87%88/"/>
+    
+    <category term="Toshiba" scheme="https://www.whatwillsay.tw/tags/Toshiba/"/>
+    
+    <category term="和日" scheme="https://www.whatwillsay.tw/tags/%E5%92%8C%E6%97%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【1Zpresso Q air】輕便型手搖磨豆機開箱：攜帶方便、研磨均勻、價格實惠</title>
+    <link href="https://www.whatwillsay.tw/diylife/2023/55ab9900.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/55ab9900.html</id>
+    <published>2023-11-03T08:01:46.000Z</published>
+    <updated>2023-11-03T08:01:46.000Z</updated>
+    
+    
+    <summary type="html">實測 1Zpresso Q Air 手搖磨豆機的攜帶性、研磨均勻度與操作手感，並分享從濾掛升級手沖後的風味差異與選購建議。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="1Zpresso" scheme="https://www.whatwillsay.tw/tags/1Zpresso/"/>
+    
+    <category term="1Zpresso Q Air" scheme="https://www.whatwillsay.tw/tags/1Zpresso-Q-Air/"/>
+    
+    <category term="手搖磨豆機" scheme="https://www.whatwillsay.tw/tags/%E6%89%8B%E6%90%96%E7%A3%A8%E8%B1%86%E6%A9%9F/"/>
+    
+    <category term="Hand coffee grinder" scheme="https://www.whatwillsay.tw/tags/Hand-coffee-grinder/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2023 iPhone電池循環次數查詢教學</title>
+    <link href="https://www.whatwillsay.tw/diylife/2023/2d3eac8f.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/2d3eac8f.html</id>
+    <published>2023-11-01T03:11:19.000Z</published>
+    <updated>2023-11-01T03:11:19.000Z</updated>
+    
+    
+    <summary type="html">整理 iPhone 電池循環次數查詢方法與實測步驟，包含 iOS 版本差異、快捷指令與判讀重點，快速掌握電池健康狀態。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="iPhone" scheme="https://www.whatwillsay.tw/tags/iPhone/"/>
+    
+    <category term="電池循環次數" scheme="https://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%BE%AA%E7%92%B0%E6%AC%A1%E6%95%B8/"/>
+    
+    <category term="電池健康度" scheme="https://www.whatwillsay.tw/tags/%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【SOTO ST-340 開箱】輕量、火力強勁的露營爐具推薦</title>
+    <link href="https://www.whatwillsay.tw/outdoor/2023/b289b3c7.html"/>
+    <id>https://www.whatwillsay.tw/outdoor/2023/b289b3c7.html</id>
+    <published>2023-10-19T03:00:45.000Z</published>
+    <updated>2023-10-19T03:00:45.000Z</updated>
+    
+    
+    <summary type="html">開箱 SOTO ST-340 蜘蛛爐，整理火力、穩定度與收納攜帶表現，並分享居家與露營兩用場景的實際使用心得。</summary>
+    
+    
+    
+    <category term="登山健行" scheme="https://www.whatwillsay.tw/categories/outdoor/"/>
+    
+    
+    <category term="SOTO" scheme="https://www.whatwillsay.tw/tags/SOTO/"/>
+    
+    <category term="ST-340" scheme="https://www.whatwillsay.tw/tags/ST-340/"/>
+    
+    <category term="蜘蛛爐" scheme="https://www.whatwillsay.tw/tags/%E8%9C%98%E8%9B%9B%E7%88%90/"/>
+    
+    <category term="露營" scheme="https://www.whatwillsay.tw/tags/%E9%9C%B2%E7%87%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SciView 手機光譜儀開箱</title>
+    <link href="https://www.whatwillsay.tw/diylife/2023/c6ab4d33.html"/>
+    <id>https://www.whatwillsay.tw/diylife/2023/c6ab4d33.html</id>
+    <published>2023-09-24T08:41:42.000Z</published>
+    <updated>2023-09-24T08:41:42.000Z</updated>
+    
+    
+    <summary type="html">開箱 SciView 手機光譜儀並進行植物燈測試，記錄組裝流程、量測方法與光譜判讀重點，提供入門實作參考。</summary>
+    
+    
+    
+    <category term="DIY生活" scheme="https://www.whatwillsay.tw/categories/diylife/"/>
+    
+    
+    <category term="手機光譜儀" scheme="https://www.whatwillsay.tw/tags/%E6%89%8B%E6%A9%9F%E5%85%89%E8%AD%9C%E5%84%80/"/>
+    
+    <category term="科學Maker" scheme="https://www.whatwillsay.tw/tags/%E7%A7%91%E5%AD%B8Maker/"/>
+    
+    <category term="SciView" scheme="https://www.whatwillsay.tw/tags/SciView/"/>
+    
+    <category term="植物燈" scheme="https://www.whatwillsay.tw/tags/%E6%A4%8D%E7%89%A9%E7%87%88/"/>
+    
+    <category term="spectrometer" scheme="https://www.whatwillsay.tw/tags/spectrometer/"/>
+    
+  </entry>
+  
+</feed>

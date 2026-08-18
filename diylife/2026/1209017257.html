@@ -1,0 +1,643 @@
+<!DOCTYPE html><html lang="zh-TW" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機 | 阿緯碎碎唸</title><meta name="author" content="Will 阿緯"><meta name="copyright" content="Will 阿緯"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="ffffff"><meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"><meta name="googlebot" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"><meta name="description" content="CyberPower CP650HGa 遇到短短幾秒跳電時完全沒有接手，導致 Synology DS923+ 異常關機。記錄 UPS 電池規格確認、拆裝順序、充電、斷電測試及 DSM 安全模式設定。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機">
+<meta property="og:url" content="https://www.whatwillsay.tw/diylife/2026/1209017257.html">
+<meta property="og:site_name" content="阿緯碎碎唸">
+<meta property="og:description" content="CyberPower CP650HGa 遇到短短幾秒跳電時完全沒有接手，導致 Synology DS923+ 異常關機。記錄 UPS 電池規格確認、拆裝順序、充電、斷電測試及 DSM 安全模式設定。">
+<meta property="og:locale" content="zh_TW">
+<meta property="og:image" content="https://www.whatwillsay.tw/diylife/2026/1209017257/cover.webp">
+<meta property="article:published_time" content="2026-08-05T02:06:33.000Z">
+<meta property="article:modified_time" content="2026-08-05T02:41:04.000Z">
+<meta property="article:author" content="Will 阿緯">
+<meta property="article:tag" content="CyberPower CP650HGa">
+<meta property="article:tag" content="UPS電池更換">
+<meta property="article:tag" content="Synology DS923+">
+<meta property="article:tag" content="NAS">
+<meta property="article:tag" content="DIY維修">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.whatwillsay.tw/diylife/2026/1209017257/cover.webp"><script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.whatwillsay.tw#organization",
+      "name": "Will 阿緯",
+      "url": "https://www.whatwillsay.tw",
+      "alternateName": "阿緯碎碎唸",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.whatwillsay.tw/diylife/2026/1209017257/cover.webp"
+      },
+      "sameAs": [
+        "https://www.youtube.com/@WhatWillSay",
+        "https://www.instagram.com/iwillbe1213?igshid=bTM5aHZtdTV4bTN0"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.whatwillsay.tw#website",
+      "url": "https://www.whatwillsay.tw",
+      "name": "阿緯碎碎唸",
+      "alternateName": [
+        "WhatWillSay",
+        "whatwillsay.tw"
+      ],
+      "description": "分享攝影、登山健行、DIY手做與各種開箱體驗的部落格。",
+      "inLanguage": "zh-TW",
+      "publisher": {
+        "@id": "https://www.whatwillsay.tw#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.whatwillsay.tw/diylife/2026/1209017257.html#webpage",
+      "url": "https://www.whatwillsay.tw/diylife/2026/1209017257.html",
+      "name": "CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機",
+      "isPartOf": {
+        "@id": "https://www.whatwillsay.tw#website"
+      },
+      "inLanguage": "zh-TW",
+      "description": "CyberPower CP650HGa 遇到短短幾秒跳電時完全沒有接手，導致 Synology DS923+ 異常關機。記錄 UPS 電池規格確認、拆裝順序、充電、斷電測試及 DSM 安全模式設定。"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.whatwillsay.tw/diylife/2026/1209017257.html#article",
+      "headline": "CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機",
+      "url": "https://www.whatwillsay.tw/diylife/2026/1209017257.html",
+      "datePublished": "2026-08-05T02:06:33.000Z",
+      "dateModified": "2026-08-05T02:41:04.000Z",
+      "mainEntityOfPage": {
+        "@id": "https://www.whatwillsay.tw/diylife/2026/1209017257.html#webpage"
+      },
+      "isPartOf": {
+        "@id": "https://www.whatwillsay.tw#website"
+      },
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Will 阿緯",
+          "url": "https://www.whatwillsay.tw/"
+        }
+      ],
+      "publisher": {
+        "@id": "https://www.whatwillsay.tw#organization"
+      },
+      "inLanguage": "zh-TW",
+      "image": "https://www.whatwillsay.tw/diylife/2026/1209017257/cover.webp",
+      "description": "CyberPower CP650HGa 遇到短短幾秒跳電時完全沒有接手，導致 Synology DS923+ 異常關機。記錄 UPS 電池規格確認、拆裝順序、充電、斷電測試及 DSM 安全模式設定。"
+    }
+  ]
+}</script><link rel="shortcut icon" href="/image/logo2.png"><link rel="canonical" href="https://www.whatwillsay.tw/diylife/2026/1209017257.html"><link rel="preconnect" href="//cdn.jsdelivr.net"><link rel="preconnect" href="//www.google-analytics.com" crossorigin=""><link rel="preconnect" href="//fonts.googleapis.com" crossorigin=""><link rel="preconnect" href="//busuanzi.ibruce.info"><link rel="stylesheet" href="/css/index.css?v=5.3.3"><link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/css/all.min.css"></noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.css" media="print" onload="this.media='all'"><script>
+    (() => {
+      
+    const saveToLocal = {
+      set: (key, value, ttl) => {
+        if (!ttl) return
+        const expiry = Date.now() + ttl * 86400000
+        localStorage.setItem(key, JSON.stringify({ value, expiry }))
+      },
+      get: key => {
+        const itemStr = localStorage.getItem(key)
+        if (!itemStr) return undefined
+        const { value, expiry } = JSON.parse(itemStr)
+        if (Date.now() > expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return value
+      }
+    }
+
+    window.btf = {
+      saveToLocal,
+      getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        Object.entries(attr).forEach(([key, val]) => script.setAttribute(key, val))
+        script.onload = script.onreadystatechange = () => {
+          if (!script.readyState || /loaded|complete/.test(script.readyState)) resolve()
+        }
+        script.onerror = reject
+        document.head.appendChild(script)
+      }),
+      getCSS: (url, id) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onload = link.onreadystatechange = () => {
+          if (!link.readyState || /loaded|complete/.test(link.readyState)) resolve()
+        }
+        link.onerror = reject
+        document.head.appendChild(link)
+      }),
+      addGlobalFn: (key, fn, name = false, parent = window) => {
+        if (!true && key.startsWith('pjax')) return
+        const globalFn = parent.globalFn || {}
+        globalFn[key] = globalFn[key] || {}
+        globalFn[key][name || Object.keys(globalFn[key]).length] = fn
+        parent.globalFn = globalFn
+      }
+    }
+  
+      
+      const activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      const activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', 'ffffff')
+        }
+      }
+
+      btf.activateDarkMode = activateDarkMode
+      btf.activateLightMode = activateLightMode
+
+      const theme = saveToLocal.get('theme')
+    
+          theme === 'dark' ? activateDarkMode() : theme === 'light' ? activateLightMode() : null
+        
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        document.documentElement.classList.toggle('hide-aside', asideStatus === 'hide')
+      }
+    
+      
+    const detectApple = () => {
+      if (/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+  
+    })()
+  </script><script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-GBQWG2E6P5"></script><script>window.dataLayer = window.dataLayer || []
+function gtag(){dataLayer.push(arguments)}
+gtag('js', new Date())
+gtag('config', 'G-GBQWG2E6P5')
+btf.addGlobalFn('pjaxComplete', () => {
+  gtag('config', 'G-GBQWG2E6P5', {'page_path': window.location.pathname})
+}, 'google_analytics')
+</script><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Titillium+Web&amp;display=swap" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":false,"top_n_per_article":1,"unescape":false,"languages":{"hits_empty":"找不到符合您查詢的內容：${query}","hits_stats":"共找到 ${hits} 篇文章"}},
+  translate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false,"highlightFullpage":false,"highlightMacStyle":false},
+  copy: {
+    success: '複製成功',
+    error: '複製失敗',
+    noSupport: '瀏覽器不支援'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  dateSuffix: {
+    just: '剛剛',
+    min: '分鐘前',
+    hour: '小時前',
+    day: '天前',
+    month: '個月前'
+  },
+  copyright: undefined,
+  lightbox: 'null',
+  Snackbar: {"chs_to_cht":"已切換為繁體中文","cht_to_chs":"已切換為簡體中文","day_to_night":"已切換為深色模式","night_to_day":"已切換為淺色模式","bgLight":"#49b1f5","bgDark":"#1f1f1f","position":"bottom-left"},
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid@4.12.0/dist/infinitegrid.min.js',
+    buttonText: '載入更多'
+  },
+  isPhotoFigcaption: false,
+  islazyloadPlugin: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機',
+  isHighlightShrink: false,
+  isToc: true,
+  pageType: 'post'
+}</script><meta name="google-adsense-account" content="ca-pub-6800034057563876"><link rel="preload" as="image" href="/image/coverImg.webp?v=20260817" fetchpriority="high"><style data-critical-css="site">.pagination-label{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;}#recent-posts.masonry .recent-post-item{height:auto !important;aspect-ratio:auto !important;}#aside-content #card-info-btn{background-color:#075985 !important;color:#fff !important;}#aside-content #card-info-btn:hover{background-color:#064663 !important;}#aside-content #card-info-btn i,#aside-content #card-info-btn span{color:#fff !important;}#aside-content .card-recent-post time,#aside-content .card-tags a{color:#595959 !important;}#footer-wrap,#footer-wrap a{color:#102a43;}</style><meta name="generator" content="Hexo 6.3.0"><link rel="alternate" href="/atom.xml" title="阿緯碎碎唸" type="application/atom+xml">
+</head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img text-center"><img src="/image/logo2.webp" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar" loading="lazy" decoding="async"></div><div class="site-data text-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">26</div></a><a href="/tags/"><div class="headline">標籤</div><div class="length-num">71</div></a><a href="/categories/"><div class="headline">分類</div><div class="length-num">4</div></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首頁</span></a></div><div class="menus_item"><a class="site-page" href="/categories/outdoor/"><i class="fa-fw fas fa-hiking"></i><span> 運動｜戶外</span></a></div><div class="menus_item"><a class="site-page" href="/categories/travelphotography/"><i class="fa-fw fas fa-camera-retro"></i><span> 旅遊｜攝影</span></a></div><div class="menus_item"><a class="site-page" href="/categories/diylife/"><i class="fa-fw fas fa-toolbox"></i><span> DIY 生活</span></a></div><div class="menus_item"><a class="site-page" href="/categories/unboxing/"><i class="fa-fw fas fa-box-open"></i><span> 各式開箱</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg fixed" id="page-header" style="background-image: url(/diylife/2026/1209017257/cover.webp);"><nav id="nav"><span id="blog-info"><a class="nav-site-title" href="/"><span class="site-name">阿緯碎碎唸</span></a><a class="nav-page-title" href="/"><span class="site-name">CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機</span></a></span><div id="menus"><div id="search-button"><span class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜尋</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首頁</span></a></div><div class="menus_item"><a class="site-page" href="/categories/outdoor/"><i class="fa-fw fas fa-hiking"></i><span> 運動｜戶外</span></a></div><div class="menus_item"><a class="site-page" href="/categories/travelphotography/"><i class="fa-fw fas fa-camera-retro"></i><span> 旅遊｜攝影</span></a></div><div class="menus_item"><a class="site-page" href="/categories/diylife/"><i class="fa-fw fas fa-toolbox"></i><span> DIY 生活</span></a></div><div class="menus_item"><a class="site-page" href="/categories/unboxing/"><i class="fa-fw fas fa-box-open"></i><span> 各式開箱</span></a></div></div><div id="toggle-menu"><span class="site-page"><i class="fas fa-bars fa-fw"></i></span></div></div></nav><div id="post-info"><h1 class="post-title">CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">發表於</span><time class="post-meta-date-created" datetime="2026-08-05T02:06:33.000Z" title="發表於 2026-08-05 10:06:33">2026-08-05</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新於</span><time class="post-meta-date-updated" datetime="2026-08-05T02:41:04.000Z" title="更新於 2026-08-05 10:41:04">2026-08-05</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/diylife/">DIY生活</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title=""><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">瀏覽量:</span><span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="container post-content" id="article-container"><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前陣子家裡突然跳電，時間其實只有短短幾秒，市電很快就恢復了。原本以為有接 UPS 的 <strong>Synology DS923+</strong> 應該完全不受影響，沒想到電一斷，DS923+ 也跟著立刻關機，重新啟動後還在 DSM 裡跳出了異常關機警告。</p>
+<p>這種只有幾秒鐘的斷電，正是 UPS 應該發揮作用的時候。UPS 不一定要讓 NAS 撐到市電恢復，但至少要接手供電，爭取正常關機的時間。結果這台 CyberPower CP650HGa 完全沒有接手，等於最重要的電池備援功能已經失效。</p>
+<p>不過嚴格來說，它也不只是普通延長線。CP650HGa 原本還有突波保護及 EMI／RFI 濾波功能；即使電池掛了，至少仍是一條有濾波與突波保護的延長線。只是對需要避免異常關機的 NAS 來說，沒有備援電力就已經失去我當初購買 UPS 的主要目的了。</p>
+<p>所以這次決定拆開 CP650HGa，更換裡面老化的電池，順便把電池規格、拆裝流程與換好後的測試方式記錄下來，給遇到相同問題的人參考。</p>
+<span id="more"></span>
+
+<p>DSM 的事件紀錄也留下了這次異常關機警告，時間是 2026 年 7 月 30 日 05:48。這不是正常關機通知，而是系統偵測到未預期斷電後留下的紀錄。</p>
+<p><img src="/diylife/2026/1209017257/DSM_abnormal_shutdown_before_replacement.webp" alt="Synology DS923+ 在 CP650HGa 舊電池失效時留下的異常關機紀錄" title="Synology DS923+ 異常關機事件紀錄" loading="lazy" decoding="async"></p>
+<center>舊電池無法接手短暫斷電，DSM 留下 DS923+ 異常關機紀錄</center>
+
+<h2 id="CyberPower-CP650HGa-基本規格"><a href="#CyberPower-CP650HGa-基本規格" class="headerlink" title="CyberPower CP650HGa 基本規格"></a>CyberPower CP650HGa 基本規格</h2><p>CP650HGa 是一台 650 VA／375 W 的離線式 UPS，總共有 8 個插座，其中 4 個具備電池備援與突波保護，另外 4 個只有突波保護。官方標示半載供電時間約 9 分鐘、滿載約 2 分鐘，新電池一般充飽約需 8 小時。</p>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>CyberPower CP650HGa</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>UPS 架構</td>
+<td>離線式（Standby）</td>
+</tr>
+<tr>
+<td>輸出容量</td>
+<td>650 VA／375 W</td>
+</tr>
+<tr>
+<td>電池輸出波形</td>
+<td>模擬正弦波</td>
+</tr>
+<tr>
+<td>插座數量</td>
+<td>8 個</td>
+</tr>
+<tr>
+<td>電池備援＋突波保護</td>
+<td>4 個</td>
+</tr>
+<tr>
+<td>僅突波保護</td>
+<td>4 個</td>
+</tr>
+<tr>
+<td>突波抑制</td>
+<td>890 J</td>
+</tr>
+<tr>
+<td>濾波功能</td>
+<td>EMI／RFI 濾波</td>
+</tr>
+<tr>
+<td>官方半載供電時間</td>
+<td>約 9 分鐘</td>
+</tr>
+<tr>
+<td>官方滿載供電時間</td>
+<td>約 2 分鐘</td>
+</tr>
+<tr>
+<td>一般充飽時間</td>
+<td>約 8 小時</td>
+</tr>
+</tbody></table>
+<p>以上供電時間是新電池在特定負載與環境下的參考值，實際續航仍會受到 NAS 功耗、電池年齡、溫度與電池健康狀況影響。</p>
+<p><img src="/diylife/2026/1209017257/CP650HGa-outlets.webp" alt="CyberPower CP650HGa 實機的電池備援與突波保護插座" title="CyberPower CP650HGa 實機插座配置" loading="lazy" decoding="async"></p>
+<center>CP650HGa 實機共有 8 個插座，左右兩組的功能並不相同</center>
+
+<p><a target="_blank" rel="noopener" href="https://www.cyberpower.com/tw/zh/product/sku/cp650hga">CyberPower CP650HGa 官方產品資訊</a></p>
+<h2 id="換電池前，先確認-NAS-沒有插錯孔"><a href="#換電池前，先確認-NAS-沒有插錯孔" class="headerlink" title="換電池前，先確認 NAS 沒有插錯孔"></a>換電池前，先確認 NAS 沒有插錯孔</h2><p>在認定電池壞掉之前，第一件事不是拆機，而是先看 NAS 插在哪一組插座。</p>
+<p>CP650HGa 的 8 個插座並不是全部都有電池備援。如果 NAS 接在僅提供突波保護的插座，平常使用完全不會有異狀，但市電一斷，NAS 當然也會立刻關機。這時即使 UPS 電池是新的也沒有用。</p>
+<p><img src="/diylife/2026/1209017257/Synology-DS923plus-CP650HGa.webp" alt="Synology DS923+ 與 CyberPower CP650HGa 的實際連接環境" title="Synology DS923+ 與 CyberPower CP650HGa" loading="lazy" decoding="async"></p>
+<center>實際使用環境中的 Synology DS923+ 與 CP650HGa</center>
+
+<p>確認 NAS 已經接在標示為電池備援的插座後，可以依照下面方式做初步測試：</p>
+<ol>
+<li>先將 NAS 正常關機，不要直接拿正在運作的 NAS 測試。</li>
+<li>讓 UPS 接上市電充電，官方標示一般充飽時間約為 8 小時。</li>
+<li>將檯燈、路由器等非重要設備接到電池備援插座。</li>
+<li>開啟測試設備後，拔掉 UPS 的市電插頭，模擬短暫停電。</li>
+<li>如果設備瞬間斷電，代表電池可能已經老化，或 UPS 本體的備援電路發生故障。</li>
+</ol>
+<p>這項測試只能確認備援功能是否正常，不能單靠一次斷電就百分之百判定是電池問題。如果換上規格正確的新電池後仍然無法供電，就不要繼續拿 NAS 冒險，應該考慮送修或直接更換 UPS。</p>
+<h2 id="CP650HGa-要使用哪一顆電池？"><a href="#CP650HGa-要使用哪一顆電池？" class="headerlink" title="CP650HGa 要使用哪一顆電池？"></a>CP650HGa 要使用哪一顆電池？</h2><p>實際拆開我這台 CP650HGa-TW，裡面使用的是 <strong>LEOCH CPS 5.5-12（12 V／5.5 Ah）</strong> 密閉式鉛酸電池；機身底部貼紙也標示內含 1 顆電池、總電池電壓 12 V、總電池容量 5.5 Ah Max。</p>
+<p>這次換上的新電池是 <strong>CSB HR 1224W F2</strong>，標籤標示為 12 V、24 W／Cell／1.67 V／15 Min。它採用 F2 端子，實際比對後，尺寸、端子位置與原本的接線都能對應。</p>
+<table>
+<thead>
+<tr>
+<th>比對項目</th>
+<th>原廠舊電池</th>
+<th>本次新電池</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>品牌／型號</td>
+<td>LEOCH CPS 5.5-12</td>
+<td>CSB HR 1224W F2</td>
+</tr>
+<tr>
+<td>標示電壓</td>
+<td>12 V</td>
+<td>12 V</td>
+</tr>
+<tr>
+<td>標示方式</td>
+<td>5.5 Ah</td>
+<td>24 W／Cell／1.67 V／15 Min</td>
+</tr>
+<tr>
+<td>電池類型</td>
+<td>密閉式鉛酸電池</td>
+<td>密閉式鉛酸電池</td>
+</tr>
+<tr>
+<td>實際安裝</td>
+<td>原廠配置</td>
+<td>尺寸與端子可直接對應</td>
+</tr>
+</tbody></table>
+<p>HR 1224W F2 採用高率放電的 W／Cell 規格標示，不能把 24 W／Cell 直接當成 24 Ah 來比較。購買時仍應以電壓、外觀尺寸、端子形式與正負極位置是否相符為準。</p>
+<p><img src="/diylife/2026/1209017257/replacement-battery-CSB-HR1224W-F2.webp" alt="CP650HGa 本次使用的 CSB HR 1224W F2 替換電池" title="CSB HR 1224W F2 密閉式鉛酸電池" loading="lazy" decoding="async"></p>
+<center>本次換上的 CSB HR 1224W F2，標示電壓為 12 V</center>
+
+<p><img src="/diylife/2026/1209017257/CP650HGa-old-new-battery-comparison.webp" alt="CP650HGa 原廠 LEOCH 與 CSB 新電池並排比較" title="CP650HGa 新舊電池比較" loading="lazy" decoding="async"></p>
+<center>上方是原廠 LEOCH CPS 5.5-12，下方是本次更換的 CSB HR 1224W F2</center>
+
+<p>不過 UPS 可能因生產批次而使用不同品牌或規格的電池，所以最保險的方法還是先拆開自己的機器，確認舊電池標籤後再購買。除了電壓與容量標示，還要一起比對：</p>
+<ul>
+<li>電池的長、寬、高</li>
+<li>正負極位置</li>
+<li>端子寬度與形式</li>
+<li>密閉式鉛酸電池類型</li>
+</ul>
+<p>不要只看到「12 V UPS 電池」就直接下單。如果尺寸放不進機殼、端子不合或正負極位置相反，即使電壓相同也不一定能直接使用。</p>
+<p><mark style="font-size:18px; font-weight: bold;"><a target="_blank" rel="noopener" href="https://s.shopee.tw/gP1t8qgmn?share_channel_code=6">CSB HR 1224W F2 UPS 替換電池蝦皮參考連結</a></mark></p>
+<p>下單前仍要先確認自己的 CP650HGa 內部電池型號、尺寸、端子與正負極位置，不要只依照賣場標題判斷是否相容。</p>
+<h2 id="準備工具"><a href="#準備工具" class="headerlink" title="準備工具"></a>準備工具</h2><p>更換電池需要的工具不多：</p>
+<ol>
+<li>十字起子</li>
+<li>絕緣手套</li>
+<li>絕緣膠帶</li>
+<li>三用電表（選用）</li>
+<li>手機或相機，用來記錄原本的接線方式</li>
+</ol>
+<p>雖然只是更換低電壓電池，UPS 內部仍包含市電與儲能元件，操作前務必先正常關閉所有設備、關閉 UPS 並拔除市電。也要取下戒指、手錶等金屬物品，避免工具或飾品造成電池正負極短路。</p>
+<p>另外，CyberPower 官方將 CP650HGa 標示為「非使用者可自行更換電池」的機型，拆開外殼可能影響保固，也有觸電、短路或損壞設備的風險。以下內容是個人拆機維修紀錄，請先衡量自己的能力；沒有相關經驗的話，交給專業人員處理會比較安全。</p>
+<h2 id="CyberPower-CP650HGa-電池更換步驟"><a href="#CyberPower-CP650HGa-電池更換步驟" class="headerlink" title="CyberPower CP650HGa 電池更換步驟"></a>CyberPower CP650HGa 電池更換步驟</h2><h3 id="步驟一：關閉設備並拔除所有接線"><a href="#步驟一：關閉設備並拔除所有接線" class="headerlink" title="步驟一：關閉設備並拔除所有接線"></a>步驟一：關閉設備並拔除所有接線</h3><p>先將 NAS 與其他連接設備正常關機，再依序關閉 UPS、拔掉 UPS 的市電插頭，最後移除所有接在 UPS 上的設備。</p>
+<p>不要在 NAS 還在讀寫資料時直接拔插頭，也不要帶電拆開 UPS。</p>
+<p>拆機前我先拍下 DS923+ 與 CP650HGa 原本的連接方式，方便完成後把線材接回正確位置。照片只能用來記錄接線，實際拆電池前仍要確認市電與所有負載都已拔除。</p>
+<h3 id="步驟二：拆開-CP650HGa-外殼"><a href="#步驟二：拆開-CP650HGa-外殼" class="headerlink" title="步驟二：拆開 CP650HGa 外殼"></a>步驟二：拆開 CP650HGa 外殼</h3><p>將 UPS 移到乾燥、通風且沒有導電物品的桌面，確認電源已完全拔除後，再把機身翻到背面。這台 CP650HGa-TW 的電池室位於底部，由一片獨立蓋板與一顆十字螺絲固定。</p>
+<p><img src="/diylife/2026/1209017257/CP650HGa-bottom-battery-cover.webp" alt="CyberPower CP650HGa-TW 底部的電池室蓋板" title="CyberPower CP650HGa-TW 底部電池室" loading="lazy" decoding="async"></p>
+<center>CP650HGa-TW 底部標籤與電池室蓋板，貼紙標示內含一顆 12 V／5.5 Ah 電池</center>
+
+<p><img src="/diylife/2026/1209017257/CP650HGa-remove-battery-cover-screw.webp" alt="拆下 CyberPower CP650HGa 電池室蓋板的固定螺絲" title="拆下 CP650HGa 電池室蓋板螺絲" loading="lazy" decoding="async"></p>
+<center>使用十字起子拆下電池室蓋板中央的固定螺絲</center>
+
+<p>螺絲拆下後即可取下電池室蓋板。不同生產批次的外殼細節可能略有差異，拆卸時不要用蠻力扳開；如果蓋板仍然卡住，先重新確認固定點。</p>
+<h3 id="步驟三：記錄接線並拆下舊電池"><a href="#步驟三：記錄接線並拆下舊電池" class="headerlink" title="步驟三：記錄接線並拆下舊電池"></a>步驟三：記錄接線並拆下舊電池</h3><p>看到電池後先不要急著拔線，先拍一張完整照片，記錄紅色正極線與黑色負極線的位置。</p>
+<p>拆除舊電池時，建議依照以下順序：</p>
+<ol>
+<li>先拆黑色負極線。</li>
+<li>再拆紅色正極線。</li>
+<li>小心取出舊電池，避免端子碰到機殼或工具。</li>
+</ol>
+<p>如果端子很緊，應該握住端子接頭左右輕晃，不要直接拉扯電線。</p>
+<p><img src="/diylife/2026/1209017257/original-battery-LEOCH-CPS5.5-12.webp" alt="CP650HGa 電池室內的 LEOCH CPS 5.5-12 原廠電池" title="CP650HGa 原廠 LEOCH CPS 5.5-12 電池" loading="lazy" decoding="async"></p>
+<center>拆開蓋板後可直接看到 LEOCH CPS 5.5-12 原廠電池</center>
+
+<p><img src="/diylife/2026/1209017257/CP650HGa-battery-wiring.webp" alt="CP650HGa 電池的紅色正極與黑色負極接線" title="CP650HGa 電池正負極接線" loading="lazy" decoding="async"></p>
+<center>拔線前先記住紅色正極與黑色負極的位置</center>
+
+<p>舊電池拆下後以三用電表量到約 <strong>8.68 V</strong>。單看開路電壓不能完整判斷電池容量，但搭配「短暫斷電時完全無法接手」的症狀，已足以確認這顆電池的狀態不正常。</p>
+<p><img src="/diylife/2026/1209017257/old-battery-voltage-8.68V.webp" alt="CP650HGa 舊電池以三用電表量到約 8.68 V" title="CP650HGa 舊電池電壓約 8.68 V" loading="lazy" decoding="async"></p>
+<center>拆下的舊電池只量到約 8.68 V</center>
+
+<h3 id="步驟四：比對新舊電池"><a href="#步驟四：比對新舊電池" class="headerlink" title="步驟四：比對新舊電池"></a>步驟四：比對新舊電池</h3><p>新電池裝入前，將它與舊電池放在一起比較，確認電壓、容量、尺寸、端子與正負極位置一致。也可以使用三用電表測量新電池電壓，並再次確認極性。</p>
+<p>如果新電池無法平整放入原本的位置，就不要硬塞或擠壓線路，應該重新確認是否買錯尺寸。</p>
+<p>這顆 CSB HR 1224W F2 安裝前量到約 <strong>12.87 V</strong>，明顯高於拆下來的舊電池。電表量測時要切到直流電壓檔，紅表筆接正極、黑表筆接負極，避免短路兩個端子。</p>
+<p><img src="/diylife/2026/1209017257/new-battery-voltage-12.87V.webp" alt="CSB HR 1224W F2 新電池安裝前量到約 12.87 V" title="CSB HR 1224W F2 新電池電壓約 12.87 V" loading="lazy" decoding="async"></p>
+<center>新電池安裝前量到約 12.87 V</center>
+
+<h3 id="步驟五：裝上新電池"><a href="#步驟五：裝上新電池" class="headerlink" title="步驟五：裝上新電池"></a>步驟五：裝上新電池</h3><p>安裝新電池時，接線順序與拆除時相反：</p>
+<ol>
+<li>先接紅色正極線。</li>
+<li>再接黑色負極線。</li>
+<li>確認兩個端子都已插到底，沒有鬆動。</li>
+<li>將電池與線材放回原本位置，避免電線被外殼夾住。</li>
+</ol>
+<p>接上最後一個端子時可能出現非常輕微的火花，但如果火花明顯、持續出現，或聞到異味，應立即停止操作並重新確認正負極及電池規格。</p>
+<p>這次新電池可以平整放回原本的電池室，兩個端子也都能插到底。確認紅、黑接線沒有被蓋板夾住後，再把電池室蓋板裝回。</p>
+<h3 id="步驟六：鎖回外殼並充電"><a href="#步驟六：鎖回外殼並充電" class="headerlink" title="步驟六：鎖回外殼並充電"></a>步驟六：鎖回外殼並充電</h3><p>確認線材沒有被壓住後，將電池室蓋板復原並鎖回固定螺絲。先不要急著接回 NAS，將 UPS 單獨接上市電，依照官方資訊充電約 8 小時。</p>
+<p>充電期間如果出現異常警示音、焦味、外殼溫度過高或電池膨脹，應立即拔除市電並停止使用。</p>
+<p><img src="/diylife/2026/1209017257/CP650HGa-after-battery-replacement.webp" alt="CyberPower CP650HGa 更換電池後重新通電" title="CyberPower CP650HGa 更換電池後通電" loading="lazy" decoding="async"></p>
+<center>換好電池並裝回蓋板後重新通電，綠色電源燈正常亮起</center>
+
+<p>電源燈亮起只代表 UPS 已通電，不能取代後面的斷電測試。這台機身貼紙也直接標示首次使用前需充電 8 小時，因此我仍讓新電池完成充電後才進行正式測試。</p>
+<h2 id="更換完成後怎麼測試？"><a href="#更換完成後怎麼測試？" class="headerlink" title="更換完成後怎麼測試？"></a>更換完成後怎麼測試？</h2><p>換上新電池並充飽後，仍然要實際測試，不能只看到 UPS 的電源燈亮起就當作完成。</p>
+<p>建議先使用非重要設備測試：</p>
+<ol>
+<li>將檯燈或其他低功耗設備接到電池備援插座。</li>
+<li>拔掉 UPS 的市電插頭。</li>
+<li>確認 UPS 是否發出電池模式警示音。</li>
+<li>觀察設備是否持續運作。</li>
+<li>接回市電，確認 UPS 能正常恢復充電。</li>
+</ol>
+<p>確認基本備援功能正常後，再接回 Synology DS923+，並檢查 DSM 是否能透過 USB 辨識 UPS。即使新電池能撐過幾秒鐘的跳電，仍然要設定停電後進入安全模式的條件，避免停電時間超過電池續航後再次異常斷電。</p>
+<h3 id="Synology-DS923-的-UPS-設定"><a href="#Synology-DS923-的-UPS-設定" class="headerlink" title="Synology DS923+ 的 UPS 設定"></a>Synology DS923+ 的 UPS 設定</h3><p>CP650HGa 具備支援 HID 的 USB 連接埠，官方包裝內容也包含 USB 線。可以先用這條線直接連接 UPS 與 DS923+；如果 DSM 能辨識，再進行以下設定：</p>
+<ol>
+<li>開啟「控制台」。</li>
+<li>進入「硬體與電源」。</li>
+<li>切換到「UPS」頁籤。</li>
+<li>啟用 UPS 支援。</li>
+<li>設定停電多久後讓 DS923+ 進入安全模式。</li>
+<li>套用設定後，確認 DSM 能顯示 UPS 狀態。</li>
+</ol>
+<p>DSM 成功辨識後，詳細資訊顯示品牌為 CPS、型號為 CP650HGaTW、狀態為「已連線」，當時電池容量顯示 100%。這裡的 100% 代表目前充電狀態，不能單靠這個數字判斷電池健康度或實際續航時間。</p>
+<p><img src="/diylife/2026/1209017257/DSM_UPS_settings_CP650HGaTW.webp" alt="Synology DSM 辨識 CyberPower CP650HGaTW 並顯示電池容量 100%" title="DSM UPS 詳細資訊顯示 CP650HGaTW 已連線" loading="lazy" decoding="async"></p>
+<center>DSM 已辨識 CP650HGaTW，狀態為已連線，當時電池容量顯示 100%</center>
+
+<p>USB 線應直接接在 DS923+ 上，不要經過 USB Hub。設定完成後仍要進行一次受控停電測試，確認 DSM 能收到 UPS 已切換成電池供電的通知，並在設定時間到達後正常進入安全模式。不同 DSM 版本的欄位名稱可能略有差異，可再參考 <a target="_blank" rel="noopener" href="https://kb.synology.com/zh-tw/DSM/help/DSM/AdminCenter/system_hardware_ups">Synology 官方 UPS 設定說明</a>。</p>
+<p>接上 USB 線並啟用 UPS 支援後，DSM 的事件紀錄也顯示 DS923+ 已連接至不斷電系統，代表 NAS 與 UPS 之間的通訊已經建立。</p>
+<p><img src="/diylife/2026/1209017257/DSM_UPS_connected_event.webp" alt="Synology DS923+ 已連接至 CyberPower 不斷電系統的事件紀錄" title="Synology DS923+ 已連接至不斷電系統" loading="lazy" decoding="async"></p>
+<center>DSM 記錄 DS923+ 已成功連接至不斷電系統</center>
+
+<p>這次拔除市電後，DS923+ 仍然持續運作，DSM 也成功記錄 UPS 已進入電池供電模式；當下顯示的預估剩餘時間為 103 分鐘。這是 DSM 依當時負載計算的估算值，並不是完整放電後的實際續航時間。</p>
+<p><img src="/diylife/2026/1209017257/DSM_UPS_battery_mode.webp" alt="Synology DS923+ 偵測 CP650HGa 進入電池供電模式" title="Synology DS923+ 偵測 CP650HGa 進入電池供電模式" loading="lazy" decoding="async"></p>
+<center>DSM 記錄 CP650HGa 已進入電池供電模式，預估剩餘時間 103 分鐘</center>
+
+<p>第一輪先用檯燈作為非重要負載，拔除市電後檯燈仍能持續亮著；接著再用筆電測試，因為筆電本身有電池，即使 UPS 沒有成功接手，也不會像桌機或 NAS 一樣瞬間斷電。確認這兩項都正常後才接回 DS923+，實測時 NAS 供電沒有中斷，DSM 也能收到 UPS 已切換成電池模式的狀態。最後再讓 NAS 依照 UPS 設定自動關機，整套停電保護流程都能正常完成。</p>
+<table>
+<thead>
+<tr>
+<th>測試項目</th>
+<th>更換前</th>
+<th>更換後</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>電池開路電壓</td>
+<td>約 8.68 V</td>
+<td>安裝前約 12.87 V</td>
+</tr>
+<tr>
+<td>短暫斷電時是否接手</td>
+<td>完全沒有，DS923+ 直接關機</td>
+<td>是，DS923+ 持續運作</td>
+</tr>
+<tr>
+<td>UPS 電池模式警示音</td>
+<td>舊電池無法進入電池模式</td>
+<td>測試期間未聽到</td>
+</tr>
+<tr>
+<td>檯燈（非重要負載）是否持續運作</td>
+<td>未測試</td>
+<td>是，拔除市電後仍持續亮著</td>
+</tr>
+<tr>
+<td>筆電是否能正常使用</td>
+<td>未測試</td>
+<td>是，切換電池供電時仍正常</td>
+</tr>
+<tr>
+<td>DSM 是否辨識 UPS</td>
+<td>未測試</td>
+<td>是，成功顯示電池供電模式</td>
+</tr>
+<tr>
+<td>實際可支撐時間</td>
+<td>幾乎 0 秒</td>
+<td>DSM 預估 103 分鐘，未做完整續航測試</td>
+</tr>
+<tr>
+<td>DS923+ 能否依設定自動關機</td>
+<td>否</td>
+<td>是，已完成自動關機測試</td>
+</tr>
+</tbody></table>
+<h2 id="碎碎念總結"><a href="#碎碎念總結" class="headerlink" title="碎碎念總結"></a>碎碎念總結</h2><p>這次最讓我傻眼的地方，是跳電並不是停了幾十分鐘，真的就只有短短幾秒。結果 CP650HGa 完全沒有接手，Synology DS923+ 當場異常關機，讓我直到真正遇到停電才發現 UPS 的電池早就失去作用。</p>
+<p>當然，它並沒有徹底變成毫無功能的普通延長線，原本的突波保護與 EMI／RFI 濾波功能理論上仍在；稱它為「有濾波和突波保護的延長線」會比較精準。但對 NAS 來說，UPS 最重要的就是在市電中斷時爭取正常關機時間，備援電池無法接手，核心任務就是失敗了。</p>
+<p>UPS 平常安安靜靜地放在角落，很容易讓人產生「電源燈有亮就沒問題」的錯覺。換好電池之後，我也會把受控斷電測試加入定期檢查，不要等到下一次真的停電才開獎。</p>
+<p>舊的密閉式鉛酸電池不要丟入一般垃圾，應交由電池行、合適的資源回收點或販售店家回收處理。</p>
+<ul>
+<li>DIY 有一定風險，請衡量自身能力再行嘗試。若對拆機或電池接線沒有信心，建議尋求專業人員協助。</li>
+</ul>
+<h2 id="CyberPower-CP650HGa-電池更換常見問題"><a href="#CyberPower-CP650HGa-電池更換常見問題" class="headerlink" title="CyberPower CP650HGa 電池更換常見問題"></a>CyberPower CP650HGa 電池更換常見問題</h2><h3 id="為什麼只跳電幾秒，Synology-DS923-還是直接關機？"><a href="#為什麼只跳電幾秒，Synology-DS923-還是直接關機？" class="headerlink" title="為什麼只跳電幾秒，Synology DS923+ 還是直接關機？"></a>為什麼只跳電幾秒，Synology DS923+ 還是直接關機？</h3><p>先確認 DS923+ 是否接在 CP650HGa 的電池備援插座，而不是僅提供突波保護的插座。如果插座正確，充電後仍然無法在斷電時接手，可能是電池老化或 UPS 本體故障。</p>
+<h3 id="CP650HGa-的所有插座都有電池備援嗎？"><a href="#CP650HGa-的所有插座都有電池備援嗎？" class="headerlink" title="CP650HGa 的所有插座都有電池備援嗎？"></a>CP650HGa 的所有插座都有電池備援嗎？</h3><p>沒有。CP650HGa 雖然有 8 個插座，但其中 4 個提供電池備援與突波保護，另外 4 個只有突波保護。DS923+ 必須接在具備電池備援的插座。</p>
+<h3 id="CyberPower-CP650HGa-可以自己換電池嗎？"><a href="#CyberPower-CP650HGa-可以自己換電池嗎？" class="headerlink" title="CyberPower CP650HGa 可以自己換電池嗎？"></a>CyberPower CP650HGa 可以自己換電池嗎？</h3><p>CyberPower 官方規格將 CP650HGa 標示為非使用者可自行更換電池的機型。自行拆機可能影響保固，也有觸電與短路風險；沒有相關經驗時，建議交由專業人員處理。</p>
+<h3 id="CP650HGa-應該買哪一種電池？"><a href="#CP650HGa-應該買哪一種電池？" class="headerlink" title="CP650HGa 應該買哪一種電池？"></a>CP650HGa 應該買哪一種電池？</h3><p>我這台 CP650HGa-TW 實際拆到的是 12 V／5.5 Ah 的 LEOCH CPS 5.5-12，這次換成尺寸及端子相符的 CSB HR 1224W F2。不過不同批次可能不完全相同，購買前仍應以自己機器內的電池標籤為準，同時核對尺寸、端子與正負極位置。</p>
+<h3 id="換上新電池後要充電多久？"><a href="#換上新電池後要充電多久？" class="headerlink" title="換上新電池後要充電多久？"></a>換上新電池後要充電多久？</h3><p>CyberPower 官方標示 CP650HGa 的一般充飽時間約為 8 小時。充電完成後，我先用檯燈確認 UPS 確實有輸出，再用本身有電池的筆電測試切換，最後才接回 NAS。</p>
+<h3 id="UPS-進入電池模式卻沒有警示音，代表沒有供電嗎？"><a href="#UPS-進入電池模式卻沒有警示音，代表沒有供電嗎？" class="headerlink" title="UPS 進入電池模式卻沒有警示音，代表沒有供電嗎？"></a>UPS 進入電池模式卻沒有警示音，代表沒有供電嗎？</h3><p>不能只靠警示音判斷。這次測試期間雖然沒有聽到警示音，但檯燈持續亮著、筆電正常使用，DS923+ 也沒有斷電，而且 DSM 確實記錄到 UPS 已進入電池供電模式。</p>
+<h3 id="Synology-DS923-要怎麼設定-UPS-安全模式？"><a href="#Synology-DS923-要怎麼設定-UPS-安全模式？" class="headerlink" title="Synology DS923+ 要怎麼設定 UPS 安全模式？"></a>Synology DS923+ 要怎麼設定 UPS 安全模式？</h3><p>先使用 USB 線直接連接 CP650HGa 與 DS923+；如果 DSM 能辨識 UPS，再到「控制台」→「硬體與電源」→「UPS」啟用 UPS 支援，並設定停電多久後進入安全模式。這次實測已確認 DSM 能收到電池供電通知，DS923+ 也能依設定自動關機。</p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "為什麼只跳電幾秒，Synology DS923+ 還是直接關機？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "先確認 DS923+ 是否接在 CP650HGa 的電池備援插座，而不是僅提供突波保護的插座。如果插座正確，充電後仍然無法在斷電時接手，可能是電池老化或 UPS 本體故障。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "CP650HGa 的所有插座都有電池備援嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "沒有。CP650HGa 有 8 個插座，其中 4 個提供電池備援與突波保護，另外 4 個只有突波保護。DS923+ 必須接在具備電池備援的插座。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "CyberPower CP650HGa 可以自己換電池嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CyberPower 官方規格將 CP650HGa 標示為非使用者可自行更換電池的機型。自行拆機可能影響保固，也有觸電與短路風險；沒有相關經驗時，建議交由專業人員處理。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "CP650HGa 應該買哪一種電池？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "本文這台 CP650HGa-TW 實際使用的是 12 V／5.5 Ah 的 LEOCH CPS 5.5-12，並換成尺寸及端子相符的 CSB HR 1224W F2。不過不同批次可能不完全相同，購買前仍應以自己機器內的電池標籤為準，同時核對尺寸、端子與正負極位置。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "換上新電池後要充電多久？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CyberPower 官方標示 CP650HGa 的一般充飽時間約為 8 小時。充電完成後，本文先用檯燈確認 UPS 確實有輸出，再用本身有電池的筆電測試切換，最後才接回 NAS。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "UPS 進入電池模式卻沒有警示音，代表沒有供電嗎？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "不能只靠警示音判斷。本文測試期間雖然沒有聽到警示音，但檯燈持續亮著、筆電正常使用，DS923+ 也沒有斷電，而且 DSM 確實記錄到 UPS 已進入電池供電模式。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Synology DS923+ 要怎麼設定 UPS 安全模式？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "先使用 USB 線直接連接 CP650HGa 與 DS923+；如果 DSM 能辨識 UPS，再到控制台、硬體與電源、UPS 啟用 UPS 支援，並設定停電多久後進入安全模式。本文實測已確認 DSM 能收到電池供電通知，DS923+ 也能依設定自動關機。"
+      }
+    }
+  ]
+}
+</script>
+
+<style>
+#article-container.post-content p img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 760px;
+  height: auto;
+  margin: 0 auto 20px;
+}
+</style>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>文章作者: </span><span class="post-copyright-info"><a href="https://www.whatwillsay.tw">Will 阿緯</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>文章連結: </span><span class="post-copyright-info"><a href="https://www.whatwillsay.tw/diylife/2026/1209017257.html">https://www.whatwillsay.tw/diylife/2026/1209017257.html</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>版權聲明: </span><span class="post-copyright-info">本部落格所有文章除特別聲明外，均採用<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 授權協議。轉載請註明來源 <a href="https://www.whatwillsay.tw" target="_blank">阿緯碎碎唸</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/CyberPower-CP650HGa/">CyberPower CP650HGa</a><a class="post-meta__tags" href="/tags/UPS%E9%9B%BB%E6%B1%A0%E6%9B%B4%E6%8F%9B/">UPS電池更換</a><a class="post-meta__tags" href="/tags/Synology-DS923/">Synology DS923+</a><a class="post-meta__tags" href="/tags/NAS/">NAS</a><a class="post-meta__tags" href="/tags/DIY%E7%B6%AD%E4%BF%AE/">DIY維修</a></div><div class="post-share"><div class="social-share" data-image="/diylife/2026/1209017257/cover.webp" data-sites="facebook,twitter"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.4/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.4/sharejs/dist/js/social-share.min.js" defer=""></script></div></div><nav class="pagination-post" id="pagination"><a class="pagination-related" href="/outdoor/2026/2919111698.html" title="【台北機車露營】受夠了工作負能量？內湖碧山露營場，單人機車露營輕鬆上手"><img class="cover" src="/outdoor/2026/2919111698/solo%20camping%20cover.webp" onerror="onerror=null;src='/img/404.jpg'" alt="cover of previous post" loading="lazy" decoding="async"><div class="info"><div class="info-1"><div class="info-item-1">上一篇</div><div class="info-item-2">【台北機車露營】受夠了工作負能量？內湖碧山露營場，單人機車露營輕鬆上手</div></div><div class="info-2"><div class="info-item-1">前言說真的，你懂那種感覺嗎？連續加了好幾天班，聽老闆畫了無數的大餅，看著滿螢幕的待辦事項，你只想大喊：「我現在、立刻、馬上要離開這個鬼地方！」 但現實是骨感的。你沒有休旅車，也沒有那種可以裝下整個客廳、號稱「移動城堡」的豪華露營裝備。你只有一台陪你穿梭車陣的 MY150 輕檔車，車尾掛著一個容量僅有 33L 的小尾箱，以及一副快被工作榨乾的靈魂。 難道騎檔車的機車族就沒有逃跑的權利嗎？當然有。今天這篇文章，就是要來推坑大家我的最新紓壓配方：單人機車露營（Solo Moto Camping）。而我們的目的地，就是台北人的免費後花園——內湖碧山露營場。 📌 寫在前面：碧山露營場 快速懶人包地點： 台北市內湖區碧山路 26-6 號（導航直接設「碧山露營場」） 營位費用： 0 元！ 營區時間： 嚴格規定 14:00~17:00 報到（5點後不開放進場），隔日 13:00 退場（佛心時段）。 硬體設施： 每個營位基本配有木桌椅、24小時供電箱！另有乾濕分離熱水衛浴、飲水機、天空步道。 預約方式： 需提前至「台北市露營場地預約系統」實名制登記（假日超搶手，請拼手速）。 核心亮點：...</div></div></div></a><a class="pagination-related" href="/unboxing/2026/3619478264.html" title="SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？"><img class="cover" src="/unboxing/2026/3619478264/cover.webp" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post" loading="lazy" decoding="async"><div class="info text-right"><div class="info-1"><div class="info-item-1">下一篇</div><div class="info-item-2">SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？</div></div><div class="info-2"><div class="info-item-1">前言：從 2018 年的 WH-CH700N 換到旗艦手上的 SONY WH-CH700N 是 2018 年推出的無線降噪耳機，陪我用了相當長一段時間。期間耳罩已經自己換過兩次，也算是靠維修保養把耳機壽命盡量延長。其實這次的 WH-1000XM6 是朋友送的生日禮物，不然秉持著我的客家性格，只要 CH700N 還能發出聲音，大概就會繼續換耳罩、繼續用下去。 CH700N 的 35 小時續航、40 mm 驅動單體和可調 EQ，即使放到現在依然夠應付日常聽音樂；真正讓我開始想換耳機的，反而是降噪、通話與收納這些每天都會遇到的小地方。也因為這次不是原本計畫中的換機，剛好可以看看相隔多個世代的兩副耳機，實際體驗究竟差了多少。 這次升級到 SONY WH-1000XM6 午夜藍，最想知道的不是旗艦規格有多少，而是從一副還能正常使用的 WH-CH700N 換過來，體驗到底有沒有明顯變好？以下就從開箱、佩戴、降噪、音質、通話和續航逐項分享。  SONY WH-1000XM6 午夜藍情境封面（AI 生成示意圖）  先說結論：WH-1000XM6 值得從 WH-CH700N...</div></div></div></a></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info text-center"><div class="avatar-img"><img src="/image/logo2.webp" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar" loading="lazy" decoding="async"></div><div class="author-info-name">Will 阿緯</div><div class="author-info-description">喜歡運動、攝影、旅遊、手作，偶爾會開箱一些有趣的東西。</div><div class="site-data"><a href="/archives/"><div class="headline">文章</div><div class="length-num">26</div></a><a href="/tags/"><div class="headline">標籤</div><div class="length-num">71</div></a><a href="/categories/"><div class="headline">分類</div><div class="length-num">4</div></a></div><a id="card-info-btn" href="mailto:contact@whatwillsay.tw"><i class="fas fa-envelope" aria-hidden="true"></i><span>聯絡我</span></a><div class="card-info-social-icons"><a class="social-icon" href="https://www.youtube.com/@WhatWillSay" target="_blank" title="Youtube"><i class="fab fa-youtube" style="color: #ff0000;"></i></a><a class="social-icon" href="https://www.instagram.com/iwillbe1213?igshid=bTM5aHZtdTV4bTN0" target="_blank" title="Instagram"><i class="fab fa-instagram" style="color: #e4405f;"></i></a></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目錄</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%89%8D%E8%A8%80"><span class="toc-number">1.</span> <span class="toc-text">前言</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#CyberPower-CP650HGa-%E5%9F%BA%E6%9C%AC%E8%A6%8F%E6%A0%BC"><span class="toc-number">2.</span> <span class="toc-text">CyberPower CP650HGa 基本規格</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%8F%9B%E9%9B%BB%E6%B1%A0%E5%89%8D%EF%BC%8C%E5%85%88%E7%A2%BA%E8%AA%8D-NAS-%E6%B2%92%E6%9C%89%E6%8F%92%E9%8C%AF%E5%AD%94"><span class="toc-number">3.</span> <span class="toc-text">換電池前，先確認 NAS 沒有插錯孔</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#CP650HGa-%E8%A6%81%E4%BD%BF%E7%94%A8%E5%93%AA%E4%B8%80%E9%A1%86%E9%9B%BB%E6%B1%A0%EF%BC%9F"><span class="toc-number">4.</span> <span class="toc-text">CP650HGa 要使用哪一顆電池？</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%BA%96%E5%82%99%E5%B7%A5%E5%85%B7"><span class="toc-number">5.</span> <span class="toc-text">準備工具</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#CyberPower-CP650HGa-%E9%9B%BB%E6%B1%A0%E6%9B%B4%E6%8F%9B%E6%AD%A5%E9%A9%9F"><span class="toc-number">6.</span> <span class="toc-text">CyberPower CP650HGa 電池更換步驟</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%AD%A5%E9%A9%9F%E4%B8%80%EF%BC%9A%E9%97%9C%E9%96%89%E8%A8%AD%E5%82%99%E4%B8%A6%E6%8B%94%E9%99%A4%E6%89%80%E6%9C%89%E6%8E%A5%E7%B7%9A"><span class="toc-number">6.1.</span> <span class="toc-text">步驟一：關閉設備並拔除所有接線</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%AD%A5%E9%A9%9F%E4%BA%8C%EF%BC%9A%E6%8B%86%E9%96%8B-CP650HGa-%E5%A4%96%E6%AE%BC"><span class="toc-number">6.2.</span> <span class="toc-text">步驟二：拆開 CP650HGa 外殼</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%AD%A5%E9%A9%9F%E4%B8%89%EF%BC%9A%E8%A8%98%E9%8C%84%E6%8E%A5%E7%B7%9A%E4%B8%A6%E6%8B%86%E4%B8%8B%E8%88%8A%E9%9B%BB%E6%B1%A0"><span class="toc-number">6.3.</span> <span class="toc-text">步驟三：記錄接線並拆下舊電池</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%AD%A5%E9%A9%9F%E5%9B%9B%EF%BC%9A%E6%AF%94%E5%B0%8D%E6%96%B0%E8%88%8A%E9%9B%BB%E6%B1%A0"><span class="toc-number">6.4.</span> <span class="toc-text">步驟四：比對新舊電池</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%AD%A5%E9%A9%9F%E4%BA%94%EF%BC%9A%E8%A3%9D%E4%B8%8A%E6%96%B0%E9%9B%BB%E6%B1%A0"><span class="toc-number">6.5.</span> <span class="toc-text">步驟五：裝上新電池</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%AD%A5%E9%A9%9F%E5%85%AD%EF%BC%9A%E9%8E%96%E5%9B%9E%E5%A4%96%E6%AE%BC%E4%B8%A6%E5%85%85%E9%9B%BB"><span class="toc-number">6.6.</span> <span class="toc-text">步驟六：鎖回外殼並充電</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%9B%B4%E6%8F%9B%E5%AE%8C%E6%88%90%E5%BE%8C%E6%80%8E%E9%BA%BC%E6%B8%AC%E8%A9%A6%EF%BC%9F"><span class="toc-number">7.</span> <span class="toc-text">更換完成後怎麼測試？</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Synology-DS923-%E7%9A%84-UPS-%E8%A8%AD%E5%AE%9A"><span class="toc-number">7.1.</span> <span class="toc-text">Synology DS923+ 的 UPS 設定</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%A2%8E%E7%A2%8E%E5%BF%B5%E7%B8%BD%E7%B5%90"><span class="toc-number">8.</span> <span class="toc-text">碎碎念總結</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#CyberPower-CP650HGa-%E9%9B%BB%E6%B1%A0%E6%9B%B4%E6%8F%9B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C"><span class="toc-number">9.</span> <span class="toc-text">CyberPower CP650HGa 電池更換常見問題</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%82%BA%E4%BB%80%E9%BA%BC%E5%8F%AA%E8%B7%B3%E9%9B%BB%E5%B9%BE%E7%A7%92%EF%BC%8CSynology-DS923-%E9%82%84%E6%98%AF%E7%9B%B4%E6%8E%A5%E9%97%9C%E6%A9%9F%EF%BC%9F"><span class="toc-number">9.1.</span> <span class="toc-text">為什麼只跳電幾秒，Synology DS923+ 還是直接關機？</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#CP650HGa-%E7%9A%84%E6%89%80%E6%9C%89%E6%8F%92%E5%BA%A7%E9%83%BD%E6%9C%89%E9%9B%BB%E6%B1%A0%E5%82%99%E6%8F%B4%E5%97%8E%EF%BC%9F"><span class="toc-number">9.2.</span> <span class="toc-text">CP650HGa 的所有插座都有電池備援嗎？</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#CyberPower-CP650HGa-%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%B7%B1%E6%8F%9B%E9%9B%BB%E6%B1%A0%E5%97%8E%EF%BC%9F"><span class="toc-number">9.3.</span> <span class="toc-text">CyberPower CP650HGa 可以自己換電池嗎？</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#CP650HGa-%E6%87%89%E8%A9%B2%E8%B2%B7%E5%93%AA%E4%B8%80%E7%A8%AE%E9%9B%BB%E6%B1%A0%EF%BC%9F"><span class="toc-number">9.4.</span> <span class="toc-text">CP650HGa 應該買哪一種電池？</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%8F%9B%E4%B8%8A%E6%96%B0%E9%9B%BB%E6%B1%A0%E5%BE%8C%E8%A6%81%E5%85%85%E9%9B%BB%E5%A4%9A%E4%B9%85%EF%BC%9F"><span class="toc-number">9.5.</span> <span class="toc-text">換上新電池後要充電多久？</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#UPS-%E9%80%B2%E5%85%A5%E9%9B%BB%E6%B1%A0%E6%A8%A1%E5%BC%8F%E5%8D%BB%E6%B2%92%E6%9C%89%E8%AD%A6%E7%A4%BA%E9%9F%B3%EF%BC%8C%E4%BB%A3%E8%A1%A8%E6%B2%92%E6%9C%89%E4%BE%9B%E9%9B%BB%E5%97%8E%EF%BC%9F"><span class="toc-number">9.6.</span> <span class="toc-text">UPS 進入電池模式卻沒有警示音，代表沒有供電嗎？</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Synology-DS923-%E8%A6%81%E6%80%8E%E9%BA%BC%E8%A8%AD%E5%AE%9A-UPS-%E5%AE%89%E5%85%A8%E6%A8%A1%E5%BC%8F%EF%BC%9F"><span class="toc-number">9.7.</span> <span class="toc-text">Synology DS923+ 要怎麼設定 UPS 安全模式？</span></a></li></ol></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/unboxing/2026/3619478264.html" title="SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？"><img src="/unboxing/2026/3619478264/cover.aside-128.webp" srcset="/unboxing/2026/3619478264/cover.aside-128.webp 128w, /unboxing/2026/3619478264/cover.aside-256.webp 256w" sizes="4em" width="128" height="128" onerror="this.onerror=null;this.removeAttribute('srcset');this.src='/unboxing/2026/3619478264/cover.webp'" alt="SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？" loading="lazy" decoding="async"></a><div class="content"><a class="title" href="/unboxing/2026/3619478264.html" title="SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？">SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？</a><time datetime="2026-08-16T09:07:18.000Z" title="發表於 2026-08-16 17:07:18">2026-08-16</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/diylife/2026/1209017257.html" title="CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機"><img src="/diylife/2026/1209017257/cover.aside-128.webp" srcset="/diylife/2026/1209017257/cover.aside-128.webp 128w, /diylife/2026/1209017257/cover.aside-256.webp 256w" sizes="4em" width="128" height="128" onerror="this.onerror=null;this.removeAttribute('srcset');this.src='/diylife/2026/1209017257/cover.webp'" alt="CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機" loading="lazy" decoding="async"></a><div class="content"><a class="title" href="/diylife/2026/1209017257.html" title="CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機">CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機</a><time datetime="2026-08-05T02:06:33.000Z" title="發表於 2026-08-05 10:06:33">2026-08-05</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/outdoor/2026/2919111698.html" title="【台北機車露營】受夠了工作負能量？內湖碧山露營場，單人機車露營輕鬆上手"><img src="/outdoor/2026/2919111698/solo%20camping%20cover.aside-128.webp" srcset="/outdoor/2026/2919111698/solo%20camping%20cover.aside-128.webp 128w, /outdoor/2026/2919111698/solo%20camping%20cover.aside-256.webp 256w" sizes="4em" width="128" height="128" onerror="this.onerror=null;this.removeAttribute('srcset');this.src='/outdoor/2026/2919111698/solo%20camping%20cover.webp'" alt="【台北機車露營】受夠了工作負能量？內湖碧山露營場，單人機車露營輕鬆上手" loading="lazy" decoding="async"></a><div class="content"><a class="title" href="/outdoor/2026/2919111698.html" title="【台北機車露營】受夠了工作負能量？內湖碧山露營場，單人機車露營輕鬆上手">【台北機車露營】受夠了工作負能量？內湖碧山露營場，單人機車露營輕鬆上手</a><time datetime="2026-04-09T02:09:42.000Z" title="發表於 2026-04-09 10:09:42">2026-04-09</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/diylife/2025/2955612346.html" title="MY150 小燈更換紀錄：花小錢自己動手換 T10 LED"><img src="/diylife/2025/2955612346/cover.aside-128.webp" srcset="/diylife/2025/2955612346/cover.aside-128.webp 128w, /diylife/2025/2955612346/cover.aside-256.webp 256w" sizes="4em" width="128" height="128" onerror="this.onerror=null;this.removeAttribute('srcset');this.src='/diylife/2025/2955612346/cover.webp'" alt="MY150 小燈更換紀錄：花小錢自己動手換 T10 LED" loading="lazy" decoding="async"></a><div class="content"><a class="title" href="/diylife/2025/2955612346.html" title="MY150 小燈更換紀錄：花小錢自己動手換 T10 LED">MY150 小燈更換紀錄：花小錢自己動手換 T10 LED</a><time datetime="2025-11-28T02:50:32.000Z" title="發表於 2025-11-28 10:50:32">2025-11-28</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/unboxing/2025/2511483928.html" title="小米手持掛燙機開箱】實測評價：懶人救星還是智商稅？優缺點完整分析"><img src="/unboxing/2025/2511483928/cover.aside-128.webp" srcset="/unboxing/2025/2511483928/cover.aside-128.webp 128w, /unboxing/2025/2511483928/cover.aside-256.webp 256w" sizes="4em" width="128" height="128" onerror="this.onerror=null;this.removeAttribute('srcset');this.src='/unboxing/2025/2511483928/cover.webp'" alt="小米手持掛燙機開箱】實測評價：懶人救星還是智商稅？優缺點完整分析" loading="lazy" decoding="async"></a><div class="content"><a class="title" href="/unboxing/2025/2511483928.html" title="小米手持掛燙機開箱】實測評價：懶人救星還是智商稅？優缺點完整分析">小米手持掛燙機開箱】實測評價：懶人救星還是智商稅？優缺點完整分析</a><time datetime="2025-11-22T17:29:48.000Z" title="發表於 2025-11-23 01:29:48">2025-11-23</time></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">©2023 - 2026 By Will 阿緯</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo 6.3.0</a><span class="footer-separator">|</span><span>主題 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly 5.3.3</a></div><div class="footer_custom_text">📬 聯絡我：<a href="mailto:contact@whatwillsay.tw">contact@whatwillsay.tw</a> <br> <i class="fas fa-user-circle"></i> <a href="/about/">關於我</a> | <i class="fas fa-shield-alt"></i> <a href="/privacy-policy/">隱私權政策</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="閱讀模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="日夜模式切換"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="單欄和雙欄切換"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="設定"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目錄"><i class="fas fa-list-ul"></i></button><button id="go-up" type="button" title="回到頂端"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=5.3.3"></script><script src="/js/main.js?v=5.3.3"></script><script src="https://cdn.jsdelivr.net/npm/node-snackbar@0.1.16/dist/snackbar.min.js"></script><div class="js-pjax"></div><script src="https://cdn.jsdelivr.net/npm/pjax@0.2.8/pjax.min.js"></script><script>(() => {
+  const pjaxSelectors = ["head > title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+  window.pjax = new Pjax({
+    elements: 'a:not([target="_blank"])',
+    selectors: pjaxSelectors,
+    cacheBust: false,
+    analytics: true,
+    scrollRestoration: false
+  })
+
+  const triggerPjaxFn = (val) => {
+    if (!val) return
+    Object.values(val).forEach(fn => fn())
+  }
+
+  document.addEventListener('pjax:send', () => {
+    // removeEventListener
+    btf.removeGlobalFnEvent('pjaxSendOnce')
+    btf.removeGlobalFnEvent('themeChange')
+
+    // reset readmode
+    const $bodyClassList = document.body.classList
+    if ($bodyClassList.contains('read-mode')) $bodyClassList.remove('read-mode')
+
+    triggerPjaxFn(window.globalFn.pjaxSend)
+  })
+
+  document.addEventListener('pjax:complete', () => {
+    btf.removeGlobalFnEvent('pjaxCompleteOnce')
+    document.querySelectorAll('script[data-pjax]').forEach(item => {
+      const newScript = document.createElement('script')
+      const content = item.text || item.textContent || item.innerHTML || ""
+      Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+      newScript.appendChild(document.createTextNode(content))
+      item.parentNode.replaceChild(newScript, item)
+    })
+
+    triggerPjaxFn(window.globalFn.pjaxComplete)
+  })
+
+  document.addEventListener('pjax:error', e => {
+    if (e.request.status === 404) {
+      window.location.href = e.request.responseURL
+    }
+  })
+})()</script><script async="" data-pjax="" src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜尋</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="text-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  資料載入中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜尋文章關鍵字" type="text"></div></div><hr><div id="local-search-results"></div><div id="local-search-stats-wrap"></div></div></div><div id="search-mask"></div><script src="/js/search/local-search.js?v=5.3.3"></script></div></div></body></html>
