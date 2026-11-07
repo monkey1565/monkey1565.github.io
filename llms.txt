@@ -10,6 +10,9 @@
 - Prefer post detail pages for retrieval and citation.
 - Category/tag/pagination pages are navigational and lower priority.
 
+## Featured product reviews
+- [SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？](https://www.whatwillsay.tw/unboxing/2026/3619478264.html)
+
 ## Citation guidance
 - Please cite canonical post URLs from this site.
 - Prefer quoting the post description and section headings accurately.

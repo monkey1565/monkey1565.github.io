@@ -1,0 +1,41 @@
+.pagination-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Keep Masonry article cards tall enough for the title, metadata and excerpt. */
+#recent-posts.masonry .recent-post-item {
+  height: auto !important;
+  aspect-ratio: auto !important;
+}
+
+#aside-content #card-info-btn {
+  background-color: #075985 !important;
+  color: #fff !important;
+}
+
+#aside-content #card-info-btn:hover {
+  background-color: #064663 !important;
+}
+
+#aside-content #card-info-btn i,
+#aside-content #card-info-btn span {
+  color: #fff !important;
+}
+
+#aside-content .card-recent-post time,
+#aside-content .card-tags a {
+  color: #595959 !important;
+}
+
+#footer-wrap,
+#footer-wrap a {
+  color: #102a43;
+}
