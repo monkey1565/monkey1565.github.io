@@ -39,3 +39,8 @@
 #footer-wrap a {
   color: #102a43;
 }
+
+/* Width/height attributes reserve space; keep the aspect ratio when scaled. */
+#article-container img {
+  height: auto;
+}

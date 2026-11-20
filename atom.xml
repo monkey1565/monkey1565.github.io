@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿緯碎碎唸</title>
   <icon>https://www.whatwillsay.tw/icon.png</icon>
-  
+  <subtitle>開箱、DIY、登山與攝影</subtitle>
   <link href="https://www.whatwillsay.tw/atom.xml" rel="self"/>
   
   <link href="https://www.whatwillsay.tw/"/>
@@ -142,7 +142,7 @@
     <updated>2025-11-28T02:50:32.000Z</updated>
     
     
-    <summary type="html">記錄 MY150 T10 定位燈（小燈）DIY 更換流程，整理拆裝步驟、規格選擇與注意事項，花小錢就能恢復夜間辨識度。</summary>
+    <summary type="html">MY150 的小燈（定位燈）燒掉一顆，看了就是不舒服，乾脆自己換成 T10 LED。只要一支十字起子，大約 10 分鐘、不到 50 元就能完成，也提醒 LED 有分正負極、別買太粗的燈泡。</summary>
     
     
     
@@ -165,7 +165,7 @@
     <updated>2025-11-22T17:29:48.000Z</updated>
     
     
-    <summary type="html">實測小米手持掛燙機的除皺效率、預熱速度與使用手感，整理優缺點與適用族群，評估是否值得作為日常整燙工具。</summary>
+    <summary type="html">被同事笑襯衫太皺，一氣之下買了小米手持掛燙機。實測 26 秒預熱是不是真的、棉質襯衫燙前燙後的差別，以及約 560 g 的機身握起來的手感，用了一週後整理優缺點。</summary>
     
     
     
@@ -188,7 +188,7 @@
     <updated>2025-10-24T15:52:20.000Z</updated>
     
     
-    <summary type="html">開箱小米電視盒子 S 第三代，整理安裝設定、介面操作與串流播放體驗，評估作為客廳影音中樞的 CP 值表現。</summary>
+    <summary type="html">用了三年 Chromecast with Google TV 4K 後，拿到小米電視盒子 S（3 代）試用。比較兩者規格，分享兩週的流暢度與語音輸入體驗，也覺得記憶體只有 2 GB 有點可惜。</summary>
     
     
     
@@ -234,7 +234,7 @@
     <updated>2025-03-14T16:37:42.000Z</updated>
     
     
-    <summary type="html">開箱 SHARP 55W 明悅吸頂燈，完整記錄 DIY 安裝流程與亮度、色溫表現，整理實際使用優缺點與選購建議。</summary>
+    <summary type="html">客廳六顆燈泡的主燈只剩三顆會亮，乾脆整盞換成 SHARP 55W 明悅吸頂燈。記錄 7150 lm 的亮度感受、調光調色與安裝步驟，也提醒配線不是快速接頭，得自己纏線包電火布。</summary>
     
     
     
@@ -255,7 +255,7 @@
     <updated>2025-02-20T15:49:20.000Z</updated>
     
     
-    <summary type="html">完整記錄 MY150 離合器線與空濾更換流程，整理零件替代選項、施工步驟與手感改善重點，省下維修費也更安心。</summary>
+    <summary type="html">MY150 的離合器越拉越澀，拆下來才發現鋼索只剩一點點連著。記錄離合器線與空濾的更換步驟，還有我買錯狼傳的線、最後回材料行買原廠的過程，給想自己換的車友參考。</summary>
     
     
     
@@ -280,7 +280,7 @@
     <updated>2025-01-19T08:48:59.000Z</updated>
     
     
-    <summary type="html">開箱小米無線行動電源 6000，實測 MagSafe 磁吸穩定度、充電效率與外出便利性，整理優缺點供 iPhone 使用者參考。</summary>
+    <summary type="html">用了多年小米行動電源，終於等到支援 Qi2 的小米無線行動電源 6000。實測搭配 iPhone 的磁吸與支架模式，也發現平放充電容易過熱降速，立著充反而比較沒問題。</summary>
     
     
     
@@ -303,7 +303,7 @@
     <updated>2024-06-02T07:01:20.000Z</updated>
     
     
-    <summary type="html">MY150 喇叭故障後的 DIY 維修紀錄，從拆裝、線路檢查到更換測試完整整理，提升日常通勤與路口安全性。</summary>
+    <summary type="html">MY150 的喇叭壞了好一陣子，直到在夜市被倒車的汽車逼得節節後退才決定修。記錄檢查順序：喇叭本體、開關接點到線路，最後抓到元凶是電線斷掉，再用防水快速接頭接回去。</summary>
     
     
     
@@ -324,7 +324,7 @@
     <updated>2024-05-25T08:27:45.000Z</updated>
     
     
-    <summary type="html">開箱 Redmi Buds 5，實測配戴舒適度、通勤聆聽與通話表現，並整理降噪、延遲與續航重點評估是否值得入手。</summary>
+    <summary type="html">想找一副便宜堪用的藍牙耳機在通勤時看影片，最後選了 Redmi Buds 5。以木耳的角度分享音質、46 dB 降噪、通話與續航，也老實說塑料感偏重、App 連線偶爾出槌這些缺點。</summary>
     
     
     
@@ -347,7 +347,7 @@
     <updated>2024-05-03T15:47:00.000Z</updated>
     
     
-    <summary type="html">分享 RO 逆滲透濾心 DIY 更換實作，從濾芯辨識、拆換流程到通水檢查一次整理，讓日常飲水更安心也更省維護成本。</summary>
+    <summary type="html">回老家才發現 RO 逆滲透濾心早就過期，拆下來的 RO 膜甚至是民國百年的產物。記錄五道濾心的買法與六個更換步驟，包含進出水方向、止洩膠帶與換完後的漏水檢查。</summary>
     
     
     
@@ -366,7 +366,7 @@
     <updated>2024-04-10T04:36:45.000Z</updated>
     
     
-    <summary type="html">開箱小米體脂機 S400，並與 InBody 120 實測比對，整理量測差異、數據解讀與日常追蹤建議。</summary>
+    <summary type="html">體重一直降不下來，想知道是肌肉還是肥肉，就買了小米體脂機 S400。除了開箱與米家 App 設定，也拿公司的 InBody 120 做比對，看四電極量出來的數值差多少。</summary>
     
     
     
@@ -387,7 +387,7 @@
     <updated>2023-12-02T14:46:13.000Z</updated>
     
     
-    <summary type="html">以零基礎角度整理 MY150 電瓶更換教學，包含判斷沒電症狀、拆裝順序與發動檢查，快速完成機車電瓶 DIY。</summary>
+    <summary type="html">MY150 放了一個多月沒騎，電瓶沒電只能推發。這次買 GS GTX7A-BS 原裝未入液的電瓶自己加電解液，記錄入液、量電壓到拆舊裝新的順序（先拆負極、先裝正極）。</summary>
     
     
     
@@ -408,7 +408,7 @@
     <updated>2023-11-10T08:00:40.000Z</updated>
     
     
-    <summary type="html">記錄 TOSHIBA 和日吸頂燈三步驟 DIY 安裝流程，實測亮度、色溫與遙控操作，提供舊燈升級的選購與施工參考。</summary>
+    <summary type="html">老家房間還在用 20 年前的 T8 燈具，趁雙 11 換成可調光調色的 TOSHIBA 和日吸頂燈。記錄三步驟安裝、火線與中性線怎麼分，還有扣具歪斜得靠海綿墊片補救的小插曲。</summary>
     
     
     
@@ -431,7 +431,7 @@
     <updated>2023-11-03T08:01:46.000Z</updated>
     
     
-    <summary type="html">實測 1Zpresso Q Air 手搖磨豆機的攜帶性、研磨均勻度與操作手感，並分享從濾掛升級手沖後的風味差異與選購建議。</summary>
+    <summary type="html">喝了一陣子濾掛後，想知道自己磨豆會不會更好喝，就入手 1Zpresso Q Air。記錄開箱、與 Q2s 的差異、實測約 370 g 的重量，以及磨完一包豆子後的手感與小缺點。</summary>
     
     
     
@@ -456,7 +456,7 @@
     <updated>2023-11-01T03:11:19.000Z</updated>
     
     
-    <summary type="html">整理 iPhone 電池循環次數查詢方法與實測步驟，包含 iOS 版本差異、快捷指令與判讀重點，快速掌握電池健康狀態。</summary>
+    <summary type="html">iPhone 13 Pro 電池健康度卡在 84%，想查循環次數卻找不到教學說的 log 檔。記錄 iOS 17 的查法：找 Analytics 檔案再搜尋 CycleCount，不用裝來歷不明的捷徑。</summary>
     
     
     
@@ -479,7 +479,7 @@
     <updated>2023-10-19T03:00:45.000Z</updated>
     
     
-    <summary type="html">開箱 SOTO ST-340 蜘蛛爐，整理火力、穩定度與收納攜帶表現，並分享居家與露營兩用場景的實際使用心得。</summary>
+    <summary type="html">在福岡 Yodobashi 逛到露營用品區，SOTO ST-340 就這樣進了行李箱。整理它和 ST-310 的差異、實測 357.6 g 的重量，以及 750 ml 的水煮到沸騰約 3 分 20 秒的測試。</summary>
     
     
     

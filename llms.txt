@@ -10,8 +10,40 @@
 - Prefer post detail pages for retrieval and citation.
 - Category/tag/pagination pages are navigational and lower priority.
 
-## Featured product reviews
-- [SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？](https://www.whatwillsay.tw/unboxing/2026/3619478264.html)
+## DIY生活
+- [WAXUP 水垢去除凝膠＋Blitz 實測：洗完車還有水痕，原來不是我沒洗乾淨](https://www.whatwillsay.tw/diylife/2026/3827164509.html): 用一台白色 Subaru Impreza 實測 WAXUP 水垢去除凝膠與 Blitz 封體噴霧：記錄車窗與車門水垢的處理前後、用量與時間，以及半邊噴 Blitz 的沖水對照。
+- [CyberPower CP650HGa 電池更換教學：跳電幾秒 Synology DS923+ 就關機](https://www.whatwillsay.tw/diylife/2026/1209017257.html): CyberPower CP650HGa 遇到短短幾秒跳電時完全沒有接手，導致 Synology DS923+ 異常關機。記錄 UPS 電池規格確認、拆裝順序、充電、斷電測試及 DSM 安全模式設定。
+- [MY150 小燈更換紀錄：花小錢自己動手換 T10 LED](https://www.whatwillsay.tw/diylife/2025/2955612346.html): MY150 的小燈（定位燈）燒掉一顆，看了就是不舒服，乾脆自己換成 T10 LED。只要一支十字起子，大約 10 分鐘、不到 50 元就能完成，也提醒 LED 有分正負極、別買太粗的燈泡。
+- [自己的梅酒自己釀：超簡單自釀梅酒攻略](https://www.whatwillsay.tw/diylife/2025/3364048234.html): 跟著我的自釀梅酒筆記，一起用超簡單的方法,釀出連家人朋友都稱讚的好味道！內含我的獨家比例和詳細步驟。
+- [SHARP 55W 明悅吸頂燈開箱與安裝實測：安裝超簡單，亮度、色溫隨心調！](https://www.whatwillsay.tw/diylife/2025/4136004490.html): 客廳六顆燈泡的主燈只剩三顆會亮，乾脆整盞換成 SHARP 55W 明悅吸頂燈。記錄 7150 lm 的亮度感受、調光調色與安裝步驟，也提醒配線不是快速接頭，得自己纏線包電火布。
+- [MY150 離合器線與空濾 DIY 更換全攻略：省錢又安心！](https://www.whatwillsay.tw/diylife/2025/1108025061.html): MY150 的離合器越拉越澀，拆下來才發現鋼索只剩一點點連著。記錄離合器線與空濾的更換步驟，還有我買錯狼傳的線、最後回材料行買原廠的過程，給想自己換的車友參考。
+- [MY150 喇叭維修DIY，喇叭只是提醒你不是發出戰鬥邀請](https://www.whatwillsay.tw/diylife/2024/992337511.html): MY150 的喇叭壞了好一陣子，直到在夜市被倒車的汽車逼得節節後退才決定修。記錄檢查順序：喇叭本體、開關接點到線路，最後抓到元凶是電線斷掉，再用防水快速接頭接回去。
+- [RO逆滲透濾心更換不求人，輕鬆換安心喝](https://www.whatwillsay.tw/diylife/2024/2375653926.html): 回老家才發現 RO 逆滲透濾心早就過期，拆下來的 RO 膜甚至是民國百年的產物。記錄五道濾心的買法與六個更換步驟，包含進出水方向、止洩膠帶與換完後的漏水檢查。
+- [MY150機車電瓶DIY教學，零基礎也能學會](https://www.whatwillsay.tw/diylife/2023/2539990738.html): MY150 放了一個多月沒騎，電瓶沒電只能推發。這次買 GS GTX7A-BS 原裝未入液的電瓶自己加電解液，記錄入液、量電壓到拆舊裝新的順序（先拆負極、先裝正極）。
+- [【TOSHIBA和日吸頂燈開箱安裝】三步驟DIY輕鬆搞定](https://www.whatwillsay.tw/diylife/2023/267672838.html): 老家房間還在用 20 年前的 T8 燈具，趁雙 11 換成可調光調色的 TOSHIBA 和日吸頂燈。記錄三步驟安裝、火線與中性線怎麼分，還有扣具歪斜得靠海綿墊片補救的小插曲。
+- [【1Zpresso Q air】輕便型手搖磨豆機開箱：攜帶方便、研磨均勻、價格實惠](https://www.whatwillsay.tw/diylife/2023/55ab9900.html): 喝了一陣子濾掛後，想知道自己磨豆會不會更好喝，就入手 1Zpresso Q Air。記錄開箱、與 Q2s 的差異、實測約 370 g 的重量，以及磨完一包豆子後的手感與小缺點。
+- [2023 iPhone電池循環次數查詢教學](https://www.whatwillsay.tw/diylife/2023/2d3eac8f.html): iPhone 13 Pro 電池健康度卡在 84%，想查循環次數卻找不到教學說的 log 檔。記錄 iOS 17 的查法：找 Analytics 檔案再搜尋 CycleCount，不用裝來歷不明的捷徑。
+- [SciView 手機光譜儀開箱](https://www.whatwillsay.tw/diylife/2023/c6ab4d33.html): 收到科學 Maker 的 SciView 手機光譜儀後，先拿以前網拍買的便宜植物燈來測。記錄模組內容、用日光燈校正的方式，以及兩款植物燈的紅光其實都偏橘、波長不太夠的結果。
+- [行動顯微鏡開箱 科學Maker社團工具](https://www.whatwillsay.tw/diylife/2023/46a435ae.html): 加入科學 Maker 社團好一陣子，終於入手江老師設計的行動手機顯微鏡。記錄內容物與 LED 安裝，並和 iPhone 13 Pro 近拍模式比較，連電視面板的 RGB 排列都拍得很清楚。
+- [I'm watching you：TOYOTA ZACE SURF 前後行車紀錄器安裝](https://www.whatwillsay.tw/diylife/2023/9b07003e.html): 老爸的 TOYOTA ZACE SURF 換上 70mai 後視鏡型前後行車紀錄器。記錄老車內裝脆化下的前後鏡頭走線，尤其後鏡頭穿過尾門那段有多折騰，以及開了幾趟後的心得。
+
+## 其他開箱
+- [SONY WH-1000XM6 開箱體驗：從 WH-CH700N 升級，降噪、音質與佩戴感差多少？](https://www.whatwillsay.tw/unboxing/2026/3619478264.html): SONY WH-1000XM6 午夜藍開箱，從使用多年的 WH-CH700N 升級，實際比較降噪、音質、通話、佩戴、收納與續航差異，分析是否值得換機。
+- [小米手持掛燙機開箱】實測評價：懶人救星還是智商稅？優缺點完整分析](https://www.whatwillsay.tw/unboxing/2025/2511483928.html): 被同事笑襯衫太皺，一氣之下買了小米手持掛燙機。實測 26 秒預熱是不是真的、棉質襯衫燙前燙後的差別，以及約 560 g 的機身握起來的手感，用了一週後整理優缺點。
+- [小米電視盒子S (3代) 開箱評測：客廳影音娛樂中樞的CP值新選擇](https://www.whatwillsay.tw/unboxing/2025/2962299880.html): 用了三年 Chromecast with Google TV 4K 後，拿到小米電視盒子 S（3 代）試用。比較兩者規格，分享兩週的流暢度與語音輸入體驗，也覺得記憶體只有 2 GB 有點可惜。
+- [小米無線行動電源6000值得買嗎？開箱告訴你答案！](https://www.whatwillsay.tw/unboxing/2025/4073576291.html): 用了多年小米行動電源，終於等到支援 Qi2 的小米無線行動電源 6000。實測搭配 iPhone 的磁吸與支架模式，也發現平放充電容易過熱降速，立著充反而比較沒問題。
+- [Redmi Buds 5 開箱體驗：是否能成為你的日常搭檔？](https://www.whatwillsay.tw/unboxing/2024/3146747173.html): 想找一副便宜堪用的藍牙耳機在通勤時看影片，最後選了 Redmi Buds 5。以木耳的角度分享音質、46 dB 降噪、通話與續航，也老實說塑料感偏重、App 連線偶爾出槌這些缺點。
+- [小米體脂機S400開箱 同場加映Inbody 120比對](https://www.whatwillsay.tw/unboxing/2024/1356633398.html): 體重一直降不下來，想知道是肌肉還是肥肉，就買了小米體脂機 S400。除了開箱與米家 App 設定，也拿公司的 InBody 120 做比對，看四電極量出來的數值差多少。
+
+## 登山健行
+- [【台北機車露營】受夠了工作負能量？內湖碧山露營場，單人機車露營輕鬆上手](https://www.whatwillsay.tw/outdoor/2026/2919111698.html): 一台 MY150 輕檔車、一個登山背包、一頂帳篷，就能逃離高壓工作！完整記錄台北內湖碧山露營場的單人機車露營體驗，含裝備清單、營區設施懶人包，以及煎牛排配威士忌看百萬夜景的社畜逃跑指南。
+- [【SOTO ST-340 開箱】輕量、火力強勁的露營爐具推薦](https://www.whatwillsay.tw/outdoor/2023/b289b3c7.html): 在福岡 Yodobashi 逛到露營用品區，SOTO ST-340 就這樣進了行李箱。整理它和 ST-310 的差異、實測 357.6 g 的重量，以及 750 ml 的水煮到沸騰約 3 分 20 秒的測試。
+- [Garmont karakum 2.0 GTX登山鞋開箱](https://www.whatwillsay.tw/outdoor/2023/37b585af.html): 走臺北大縱走時舊鞋鞋底直接脫落，於是撿了出清的 Garmont Karakum 2.0 GTX。隔天就穿去走第三段還遇到下雨，順便實測防水、抓地與悶熱程度，優缺點都整理在這篇。
+
+## 旅遊|攝影
+- [藍色的魅力：利用藍曬法賦予照片生命](https://www.whatwillsay.tw/travelphotography/2023/fb26fb53.html): 翻出放了一兩年的藍曬藥水，把底片照片用藍曬法（Cyanotype）洗出來。從轉負片印投影片、塗感光劑做相紙，到曬太陽 5–10 分鐘與沖水定影，步驟都記錄在這篇。
+- [海上龍珠-基隆嶼登島](https://www.whatwillsay.tw/travelphotography/2023/9bcb80f8.html): 帶爸媽去還沒去過的基隆嶼，在 Klook 訂了晉龍號。整理二合一、三合一、四合一行程的差別與所需時間，以及平日人數不足被改成二合一的經過，給想登島的人參考。
+- [Minolta Hi-matic E 我的第一台RF](https://www.whatwillsay.tw/travelphotography/2023/7fdd1555.html): Minolta Hi-matic E 是我的第一台 RF 底片機，40 mm F1.7 加上程式自動曝光，很適合隨手拍。整理規格、電池替代方式與黃斑淡化後的對焦心得，並附上四款底片的實拍。
 
 ## Citation guidance
 - Please cite canonical post URLs from this site.
